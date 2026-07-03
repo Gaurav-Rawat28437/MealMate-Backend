@@ -16,7 +16,7 @@ app.use(
 
 app.use(express.json());
 
-const PORT = 8080;
+const PORT = process.env.PORT || 8080;
 
 const getArrayData = (data, key) => {
   if (Array.isArray(data)) {
