@@ -1,0 +1,104 @@
+{
+    "foodItems": [
+        {
+            "foodCategoryId": "750581",
+            "name": "North Indian",
+            "emoji": "🍛"
+        },
+        {
+            "foodCategoryId": "750579",
+            "name": "Pizzas",
+            "emoji": "🍕"
+        },
+        {
+            "foodCategoryId": "749868",
+            "name": "Cakes",
+            "emoji": "🎂"
+        },
+        {
+            "foodCategoryId": "750107",
+            "name": "Dessert",
+            "emoji": "🍰"
+        },
+        {
+            "foodCategoryId": "750589",
+            "name": "Burgers",
+            "emoji": "🍔"
+        },
+        {
+            "foodCategoryId": "750591",
+            "name": "Biryani",
+            "emoji": "🍚"
+        },
+        {
+            "foodCategoryId": "749768",
+            "name": "Momos",
+            "emoji": "🥟"
+        },
+        {
+            "foodCategoryId": "750222",
+            "name": "Rolls",
+            "emoji": "🌯"
+        },
+        {
+            "foodCategoryId": "750585",
+            "name": "South Indian",
+            "emoji": "🥞"
+        },
+        {
+            "foodCategoryId": "750587",
+            "name": "Chinese",
+            "emoji": "🥡"
+        },
+        {
+            "foodCategoryId": "750596",
+            "name": "Ice Cream",
+            "emoji": "🍨"
+        },
+        {
+            "foodCategoryId": "750131",
+            "name": "Dosa",
+            "emoji": "🥞"
+        },
+        {
+            "foodCategoryId": "750201",
+            "name": "Paratha",
+            "emoji": "🫓"
+        },
+        {
+            "foodCategoryId": "749772",
+            "name": "Noodles",
+            "emoji": "🍜"
+        },
+        {
+            "foodCategoryId": "750260",
+            "name": "Rasmalai",
+            "emoji": "🍮"
+        },
+        {
+            "foodCategoryId": "750206",
+            "name": "Pasta",
+            "emoji": "🍝"
+        },
+        {
+            "foodCategoryId": "750208",
+            "name": "Pastry",
+            "emoji": "🥐"
+        },
+        {
+            "foodCategoryId": "749876",
+            "name": "Chole Bhature",
+            "emoji": "🫓"
+        },
+        {
+            "foodCategoryId": "750586",
+            "name": "Gulab Jamun",
+            "emoji": "🟤"
+        },
+        {
+            "foodCategoryId": "750641",
+            "name": "Jalebi",
+            "emoji": "🥨"
+        }
+    ]
+}

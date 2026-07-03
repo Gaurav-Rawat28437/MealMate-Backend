@@ -1,0 +1,2475 @@
+{
+    "restaurants": [
+    {
+      "id": "26757",
+      "restaurantId": "26757",
+      "restaurantName": "Mad 4 Bar B Que",
+      "category": "North Indian",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/cb6ec7879c10c8f940d85f6513ea09fa",
+      "areaName": "Sector 29",
+      "locality": "Sector 29",
+      "restaurantInfo": {
+        "name": "Mad 4 Bar B Que",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "North Indian",
+          "Chinese"
+        ],
+        "avgRating": "4.2",
+        "areaName": "Sector 29",
+        "totalRatings": "3.1K+ ratings",
+        "costForTwoMessage": "₹450 for two",
+        "minMaxDeliveryTime": "40-50 mins"
+      }
+    },
+    {
+      "id": "302692",
+      "restaurantId": "302692",
+      "restaurantName": "Barbeque Nation",
+      "category": "North Indian",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/t492oc9ildacaibob0lm",
+      "areaName": "Sector 35",
+      "locality": "Sector 35",
+      "restaurantInfo": {
+        "name": "Barbeque Nation",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "North Indian",
+          "Barbecue"
+        ],
+        "avgRating": "3.8",
+        "areaName": "Sector 35",
+        "totalRatings": "1.4K+ ratings",
+        "costForTwoMessage": "₹600 for two",
+        "minMaxDeliveryTime": "40-50 mins"
+      }
+    },
+    {
+      "id": "983943",
+      "restaurantId": "983943",
+      "restaurantName": "RollsKing",
+      "category": "North Indian",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/RX_THUMBNAIL/IMAGES/VENDOR/2024/11/20/d51852a9-8a2a-4466-a95c-587a0b2be10a_983943.jpg",
+      "areaName": "Greenfields_FBD",
+      "locality": "Greenfields_FBD",
+      "restaurantInfo": {
+        "name": "RollsKing",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Rolls & Wraps",
+          "Fast Food"
+        ],
+        "avgRating": "4.1",
+        "areaName": "Greenfield Colony",
+        "totalRatings": "741 ratings",
+        "costForTwoMessage": "₹250 for two",
+        "minMaxDeliveryTime": "35-40 mins"
+      }
+    },
+    {
+      "id": "1174544",
+      "restaurantId": "1174544",
+      "restaurantName": "Homely",
+      "category": "North Indian",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/RX_THUMBNAIL/IMAGES/VENDOR/2025/8/18/86158765-7294-4560-8c51-b1aaf4b5256a_1174544.jpg",
+      "areaName": "Greenfields_FBD",
+      "locality": "Sector 35",
+      "restaurantInfo": {
+        "name": "Homely",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "South Indian",
+          "Home Food"
+        ],
+        "avgRating": "2.6",
+        "areaName": "Greenfields_FBD",
+        "totalRatings": "3 ratings",
+        "costForTwoMessage": "₹200 for two",
+        "minMaxDeliveryTime": "40-45 mins"
+      }
+    },
+    {
+      "id": "821109",
+      "restaurantId": "821109",
+      "restaurantName": "Bikkgane Biryani",
+      "category": "North Indian",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/RX_THUMBNAIL/IMAGES/VENDOR/2025/12/4/7f9c27a5-1047-47c6-8324-b0141f7046e5_821109.JPG",
+      "areaName": "Greenfields_FBD",
+      "locality": "Urban Estate Sector 29",
+      "restaurantInfo": {
+        "name": "Bikkgane Biryani",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Biryani",
+          " Hyderabadi"
+        ],
+        "avgRating": "4.3",
+        "areaName": "Greenfields_FBD",
+        "totalRatings": "3.2K+ ratings",
+        "costForTwoMessage": "₹350 for two",
+        "minMaxDeliveryTime": "40-45 mins"
+      }
+    },
+    {
+      "id": "124519",
+      "restaurantId": "124519",
+      "restaurantName": "Bansal Dhaba",
+      "category": "North Indian",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/xa0d1qhtuarstsvxfwgx",
+      "areaName": "Sector 31",
+      "locality": "Sector 31",
+      "restaurantInfo": {
+        "name": "Bansal Dhaba",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "North Indian",
+          "Mughlai"
+        ],
+        "avgRating": "4.4",
+        "areaName": "Sector 31",
+        "totalRatings": "12K+ ratings",
+        "costForTwoMessage": "₹200 for two",
+        "minMaxDeliveryTime": "35-40 mins"
+      }
+    },
+    {
+      "id": "991036",
+      "restaurantId": "991036",
+      "restaurantName": "Rolling Fresh",
+      "category": "North Indian",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/RX_THUMBNAIL/IMAGES/VENDOR/2024/11/20/7700fded-2ac0-4f46-9a6d-863d40fb0b3e_991036.JPG",
+      "areaName": "Greenfields_FBD",
+      "locality": "Greenfields_FBD",
+      "restaurantInfo": {
+        "name": "Rolling Fresh",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Rolls & Wraps",
+          "Fast Food"
+        ],
+        "avgRating": "3.8",
+        "areaName": "Greenfield Colony",
+        "totalRatings": "279 ratings",
+        "costForTwoMessage": "₹250 for two",
+        "minMaxDeliveryTime": "40-45 mins"
+      }
+    },
+    {
+      "id": "586875",
+      "restaurantId": "586875",
+      "restaurantName": "Welcome family Rasoi",
+      "category": "North Indian",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/oy6kabdtu9ncmwld53am",
+      "areaName": "Badarpur",
+      "locality": "Badarpur Border",
+      "restaurantInfo": {
+        "name": "Welcome family Rasoi",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "North Indian",
+          "Chinese"
+        ],
+        "avgRating": "3.5",
+        "areaName": "Badarpur",
+        "totalRatings": "1.0K+ ratings",
+        "costForTwoMessage": "₹300 for two",
+        "minMaxDeliveryTime": "25-30 mins"
+      }
+    },
+    {
+      "id": "605415",
+      "restaurantId": "605415",
+      "restaurantName": "Dum Safar Biryani",
+      "category": "North Indian",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/l9pbure8tbootzc7utmn",
+      "areaName": "Sector 35",
+      "locality": "Interiorz Mall",
+      "restaurantInfo": {
+        "name": "Dum Safar Biryani",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Biryani",
+          "Hyderabadi"
+        ],
+        "avgRating": "3.8",
+        "areaName": "Sector 35",
+        "totalRatings": "920 ratings",
+        "costForTwoMessage": "₹500 for two",
+        "minMaxDeliveryTime": "40-50 mins"
+      }
+    },
+    {
+      "id": "540271",
+      "restaurantId": "540271",
+      "restaurantName": "Nirula's",
+      "category": "Pizzas",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/a66fa8f5befa65947d9e20f29a863ce0",
+      "areaName": "Greenfields_FBD",
+      "locality": "Main Road Charmwood",
+      "restaurantInfo": {
+        "name": "Nirula's",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Ice Cream",
+          "Pizzas"
+        ],
+        "avgRating": "4.3",
+        "areaName": "Greenfields_FBD",
+        "totalRatings": "706 ratings",
+        "costForTwoMessage": "₹500 for two",
+        "minMaxDeliveryTime": "30-35 mins"
+      }
+    },
+    {
+      "id": "958332",
+      "restaurantId": "958332",
+      "restaurantName": "Pizza Hut",
+      "category": "Pizzas",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2025/5/7/e4a3d9a3-9997-4b73-accc-b029abeb1cc9_83eb91d8-7d3d-4463-8e7e-9188ba95bcf7.jpg_compressed",
+      "areaName": "Sarita Vihar",
+      "locality": "Sarita Vihar",
+      "restaurantInfo": {
+        "name": "Pizza Hut",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Pizzas"
+        ],
+        "avgRating": "4.1",
+        "areaName": "Sarita Vihar",
+        "totalRatings": "215 ratings",
+        "costForTwoMessage": "₹350 for two",
+        "minMaxDeliveryTime": "40-45 mins"
+      }
+    },
+    {
+      "id": "338137",
+      "restaurantId": "338137",
+      "restaurantName": "The Pizza Theatre",
+      "category": "Pizzas",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/o81xdkfwccpjmouyff0o",
+      "areaName": "Dayal Bagh",
+      "locality": "Pehladpur Village",
+      "restaurantInfo": {
+        "name": "The Pizza Theatre",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Pizzas",
+          "Pastas"
+        ],
+        "avgRating": "4.0",
+        "areaName": "Dayal Bagh",
+        "totalRatings": "340 ratings",
+        "costForTwoMessage": "₹200 for two",
+        "minMaxDeliveryTime": "40-45 mins"
+      }
+    },
+    {
+      "id": "922744",
+      "restaurantId": "922744",
+      "restaurantName": "La Pino'z Pizza",
+      "category": "Pizzas",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/l00ktr91duqpodxm9vnk",
+      "areaName": "Sarita Vihar",
+      "locality": "PANKAJ LSC POCKET",
+      "restaurantInfo": {
+        "name": "La Pino'z Pizza",
+        "cityName": "Delhi",
+        "cuisines": [
+          "Pizzas",
+          "Pastas"
+        ],
+        "avgRating": "3.8",
+        "areaName": "Sarita Vihar",
+        "totalRatings": "2.0K+ ratings",
+        "costForTwoMessage": "₹300 for two",
+        "minMaxDeliveryTime": "40-45 mins"
+      }
+    },
+    {
+      "id": "1123286",
+      "restaurantId": "1123286",
+      "restaurantName": "DD Cafe",
+      "category": "Pizzas",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2026/2/6/64621639-46c5-4b02-9972-ec9442e0a862_b5eb2161-0a40-4681-91a6-765bcbaecb59.JPG",
+      "areaName": "Greenfields_FBD",
+      "locality": "Greenfields_FBD",
+      "restaurantInfo": {
+        "name": "DD Cafe",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "North Indian"
+        ],
+        "avgRating": "--",
+        "areaName": "Greenfields_FBD",
+        "totalRatings": "Too Few Ratings",
+        "costForTwoMessage": "₹200 for two",
+        "minMaxDeliveryTime": "35-40 mins"
+      }
+    },
+    {
+      "id": "885882",
+      "restaurantId": "885882",
+      "restaurantName": "Pepper's Pizza",
+      "category": "Pizzas",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/rnoj0euzag72sy94duod",
+      "areaName": "Greenfields_FBD",
+      "locality": "Molarband School Rd,",
+      "restaurantInfo": {
+        "name": "Pepper's Pizza",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Chinese",
+          "Italian"
+        ],
+        "avgRating": "4.3",
+        "areaName": "Greenfields_FBD",
+        "totalRatings": "1.0K+ ratings",
+        "costForTwoMessage": "₹299 for two",
+        "minMaxDeliveryTime": "30-40 mins"
+      }
+    },
+    {
+      "id": "131102",
+      "restaurantId": "131102",
+      "restaurantName": "Pizza & Burger Hub",
+      "category": "Pizzas",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2026/1/18/8c9d585e-0942-45e0-b7e6-92fd2426517d_1b39c53f-44bd-4bad-b6df-768665697f93.JPG",
+      "areaName": "Badarpur",
+      "locality": "Badarpur",
+      "restaurantInfo": {
+        "name": "Pizza & Burger Hub",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Pizzas"
+        ],
+        "avgRating": "3.7",
+        "areaName": "Badarpur",
+        "totalRatings": "4.2K+ ratings",
+        "costForTwoMessage": "₹200 for two",
+        "minMaxDeliveryTime": "35-40 mins"
+      }
+    },
+    {
+      "id": "1246994",
+      "restaurantId": "1246994",
+      "restaurantName": "The Pizza Project by Oven Story",
+      "category": "Pizzas",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2025/11/20/f3b36538-66d6-4d73-811c-76cc3b166465_a46ed1b4-1393-484c-830a-2038f6b4e8da.jpeg",
+      "areaName": "D & E Sarita Viha",
+      "locality": "Pocket D & E",
+      "restaurantInfo": {
+        "name": "The Pizza Project by Oven Story",
+        "cityName": "Delhi",
+        "cuisines": [
+          "Pizzas",
+          "Italian"
+        ],
+        "avgRating": "3.9",
+        "areaName": "D & E Sarita Viha",
+        "totalRatings": "179 ratings",
+        "costForTwoMessage": "₹400 for two",
+        "minMaxDeliveryTime": "45-50 mins"
+      }
+    },
+    {
+      "id": "1290163",
+      "restaurantId": "1290163",
+      "restaurantName": "Kaajal Food",
+      "category": "Pizzas",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2026/2/17/16bd4ea8-0a98-4bc1-993b-e800c52abc82_209cc2ff-c5cc-4ee8-8a0a-4529cd2362a3.jpg",
+      "areaName": "Greenfields_FBD",
+      "locality": "Greenfields_FBD",
+      "restaurantInfo": {
+        "name": "Kaajal Food",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Italian",
+          "Street Food"
+        ],
+        "avgRating": "3.3",
+        "areaName": "Greenfields_FBD",
+        "totalRatings": "128 ratings",
+        "costForTwoMessage": "₹200 for two",
+        "minMaxDeliveryTime": "40-45 mins"
+      }
+    },
+    {
+      "id": "1035531",
+      "restaurantId": "1035531",
+      "restaurantName": "Cruffin Premium - Cakes and Desserts",
+      "category": "Cakes",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/RX_THUMBNAIL/IMAGES/VENDOR/2026/5/27/b562b81c-69b1-455a-8762-6b4e03b2d6e9_1035531.JPG",
+      "areaName": "Greenfields_FBD",
+      "locality": "Sector 37",
+      "restaurantInfo": {
+        "name": "Cruffin Premium - Cakes and Desserts",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Desserts",
+          "Bakery"
+        ],
+        "avgRating": "4.6",
+        "areaName": "Greenfields_FBD",
+        "totalRatings": "981 ratings",
+        "costForTwoMessage": "₹250 for two",
+        "minMaxDeliveryTime": "25-30 mins"
+      }
+    },
+    {
+      "id": "802112",
+      "restaurantId": "802112",
+      "restaurantName": "Nirula's",
+      "category": "Cakes",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/a538ec58430f65412d1768a1d36b4692",
+      "areaName": "Greater Kailash 2",
+      "locality": "Sarita Vihar",
+      "restaurantInfo": {
+        "name": "Nirula's",
+        "cityName": "Delhi",
+        "cuisines": [
+          "Ice Cream",
+          "Pizzas"
+        ],
+        "avgRating": "4.3",
+        "areaName": "Greater Kailash 2",
+        "totalRatings": "284 ratings",
+        "costForTwoMessage": "₹250 for two",
+        "minMaxDeliveryTime": "40-45 mins"
+      }
+    },
+    {
+      "id": "1035556",
+      "restaurantId": "1035556",
+      "restaurantName": "L'opal - Gourmet Cakes and Desserts",
+      "category": "Cakes",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/RX_THUMBNAIL/IMAGES/VENDOR/2026/5/27/b27ea269-5ca9-4998-a86b-9cd7e60389b1_1035556.JPG",
+      "areaName": "Greenfields_FBD",
+      "locality": "Sector 37",
+      "restaurantInfo": {
+        "name": "L'opal - Gourmet Cakes and Desserts",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Desserts",
+          "Bakery"
+        ],
+        "avgRating": "4.6",
+        "areaName": "Greenfields_FBD",
+        "totalRatings": "393 ratings",
+        "costForTwoMessage": "₹600 for two",
+        "minMaxDeliveryTime": "30-35 mins"
+      }
+    },
+    {
+      "id": "738769",
+      "restaurantId": "738769",
+      "restaurantName": "Cheesecake & Co.",
+      "category": "Cakes",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/b318c0b4bc2169550145ace1d6e791a2",
+      "areaName": "Sector 15 FBD",
+      "locality": "vicky complex",
+      "restaurantInfo": {
+        "name": "Cheesecake & Co.",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Bakery",
+          "Desserts"
+        ],
+        "avgRating": "4.6",
+        "areaName": "Sector 15 FBD",
+        "totalRatings": "911 ratings",
+        "costForTwoMessage": "₹500 for two",
+        "minMaxDeliveryTime": "30-35 mins"
+      }
+    },
+    {
+      "id": "391162",
+      "restaurantId": "391162",
+      "restaurantName": "SSS Bakers",
+      "category": "Cakes",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/e6weffklpzngrt9llksr",
+      "areaName": "Sector 35",
+      "locality": "Sector 35",
+      "restaurantInfo": {
+        "name": "SSS Bakers",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Bakery",
+          "Desserts"
+        ],
+        "avgRating": "3.7",
+        "areaName": "Sector 35",
+        "totalRatings": "670 ratings",
+        "costForTwoMessage": "₹250 for two",
+        "minMaxDeliveryTime": "40-50 mins"
+      }
+    },
+    {
+      "id": "651917",
+      "restaurantId": "651917",
+      "restaurantName": "IGP Cakes",
+      "category": "Cakes",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/RX_THUMBNAIL/IMAGES/VENDOR/2026/6/26/d324da41-e2a2-4afa-8c2b-bfe2cbbd0e1b_651917.JPG",
+      "areaName": "Greater Kailash New",
+      "locality": "1st Phase",
+      "restaurantInfo": {
+        "name": "IGP Cakes",
+        "cityName": "Delhi",
+        "cuisines": [
+          "Desserts",
+          "Bakery"
+        ],
+        "avgRating": "4.3",
+        "areaName": "Greater Kailash New",
+        "totalRatings": "1.3K+ ratings",
+        "costForTwoMessage": "₹299 for two",
+        "minMaxDeliveryTime": "40-45 mins"
+      }
+    },
+    {
+      "id": "60345",
+      "restaurantId": "60345",
+      "restaurantName": "Box of Cake",
+      "category": "Cakes",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/nda82gkzwzlhpwcndh3h",
+      "areaName": "Sector 35",
+      "locality": "Sector 35",
+      "restaurantInfo": {
+        "name": "Box of Cake",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Bakery",
+          "Desserts"
+        ],
+        "avgRating": "4.6",
+        "areaName": "Sector 35",
+        "totalRatings": "3.6K+ ratings",
+        "costForTwoMessage": "₹350 for two",
+        "minMaxDeliveryTime": "640-650 mins"
+      }
+    },
+    {
+      "id": "462153",
+      "restaurantId": "462153",
+      "restaurantName": "Bakingo",
+      "category": "Cakes",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/RX_THUMBNAIL/IMAGES/VENDOR/2026/6/17/1ba41a37-e23d-448c-b7d9-6c0015ec4e5e_462153.JPG",
+      "areaName": "Sector 37",
+      "locality": "Sher Shah Suri Road",
+      "restaurantInfo": {
+        "name": "Bakingo",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Bakery",
+          "Desserts"
+        ],
+        "avgRating": "4.6",
+        "areaName": "Sector 37",
+        "totalRatings": "4.6K+ ratings",
+        "costForTwoMessage": "₹300 for two",
+        "minMaxDeliveryTime": "30-35 mins"
+      }
+    },
+    {
+      "id": "926318",
+      "restaurantId": "926318",
+      "restaurantName": "Broomie's",
+      "category": "Cakes",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/RX_THUMBNAIL/IMAGES/VENDOR/2024/7/16/0dea5ba7-db81-4781-b006-fcaa1ac4789d_926318.jpg",
+      "areaName": "Sec 34",
+      "locality": "Greenfields_FBD",
+      "restaurantInfo": {
+        "name": "Broomie's",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Desserts",
+          "Beverages"
+        ],
+        "avgRating": "3.8",
+        "areaName": "Sec 34",
+        "totalRatings": "61 ratings",
+        "costForTwoMessage": "₹200 for two",
+        "minMaxDeliveryTime": "35-45 mins"
+      }
+    },
+    {
+      "id": "367815",
+      "restaurantId": "367815",
+      "restaurantName": "Grameen Kulfi",
+      "category": "Dessert",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/RX_THUMBNAIL/IMAGES/VENDOR/2025/11/17/feb9dc17-b996-4eea-8829-84767d66a7c7_367815.JPG",
+      "areaName": "Jasola",
+      "locality": "Shaheen Bagh",
+      "restaurantInfo": {
+        "name": "Grameen Kulfi",
+        "cityName": "Delhi",
+        "cuisines": [
+          "Ice Cream",
+          "Desserts"
+        ],
+        "avgRating": "4.7",
+        "areaName": "Jasola",
+        "totalRatings": "465 ratings",
+        "costForTwoMessage": "₹120 for two",
+        "minMaxDeliveryTime": "40-45 mins"
+      }
+    },
+    {
+      "id": "1051334",
+      "restaurantId": "1051334",
+      "restaurantName": "Havmor Ice Cream",
+      "category": "Dessert",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/RX_THUMBNAIL/IMAGES/VENDOR/2025/10/2/1b57fb85-7f59-416c-944a-be2371aa24a7_1051334.JPG",
+      "areaName": "Greater Kailash 2",
+      "locality": "Sarita Vihar",
+      "restaurantInfo": {
+        "name": "Havmor Ice Cream",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Ice Cream",
+          "Cakes & Pastries"
+        ],
+        "avgRating": "4.5",
+        "areaName": "Greater Kailash 2",
+        "totalRatings": "18 ratings",
+        "costForTwoMessage": "₹150 for two",
+        "minMaxDeliveryTime": "25-30 mins"
+      }
+    },
+    {
+      "id": "365826",
+      "restaurantId": "365826",
+      "restaurantName": "NIC Ice Creams",
+      "category": "Dessert",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/RX_THUMBNAIL/IMAGES/VENDOR/2026/4/22/fcf847cf-171c-44e2-9e1c-05d1cc1ef4c7_365826.JPG",
+      "areaName": "Jasola",
+      "locality": "Shaheen Bagh",
+      "restaurantInfo": {
+        "name": "NIC Ice Creams",
+        "cityName": "Delhi",
+        "cuisines": [
+          "Ice Cream",
+          "Desserts"
+        ],
+        "avgRating": "4.6",
+        "areaName": "Jasola",
+        "totalRatings": "3.4K+ ratings",
+        "costForTwoMessage": "₹120 for two",
+        "minMaxDeliveryTime": "35-40 mins"
+      }
+    },
+    {
+      "id": "808658",
+      "restaurantId": "808658",
+      "restaurantName": "Anupam Sweet House 31",
+      "category": "Dessert",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/85e6e427481332842d4413983ef45bdd",
+      "areaName": "Sector 31",
+      "locality": "Sector 31",
+      "restaurantInfo": {
+        "name": "Anupam Sweet House 31",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "North Indian",
+          "Chinese"
+        ],
+        "avgRating": "4.3",
+        "areaName": "Sector 31",
+        "totalRatings": "498 ratings",
+        "costForTwoMessage": "₹300 for two",
+        "minMaxDeliveryTime": "40-45 mins"
+      }
+    },
+    {
+      "id": "1306515",
+      "restaurantId": "1306515",
+      "restaurantName": "Pizza Villa",
+      "category": "Burgers",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2026/6/10/268ddfc3-64ff-4042-916c-c9c4c8bc1b39_1e9b8369-e4ff-41d1-a301-4462849ec2c6.png",
+      "areaName": "Greenfields_FBD",
+      "locality": "Greenfields_FBD",
+      "restaurantInfo": {
+        "name": "Pizza Villa",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Beverages",
+          "Pizzas"
+        ],
+        "avgRating": "4.2",
+        "areaName": "Greenfields_FBD",
+        "totalRatings": "221 ratings",
+        "costForTwoMessage": "₹350 for two",
+        "minMaxDeliveryTime": "40-45 mins"
+      }
+    },
+    {
+      "id": "1035494",
+      "restaurantId": "1035494",
+      "restaurantName": "Yaaron Ka Adda",
+      "category": "Burgers",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/RX_THUMBNAIL/IMAGES/VENDOR/2025/3/14/892a3737-9a18-4331-9eae-eca70d7d8989_1035494.jpg",
+      "areaName": "Greenfields_FBD",
+      "locality": "Greenfields_FBD",
+      "restaurantInfo": {
+        "name": "Yaaron Ka Adda",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Fast Food"
+        ],
+        "avgRating": "4.0",
+        "areaName": "Greenfields_FBD",
+        "totalRatings": "259 ratings",
+        "costForTwoMessage": "₹120 for two",
+        "minMaxDeliveryTime": "25-30 mins"
+      }
+    },
+    {
+      "id": "45177",
+      "restaurantId": "45177",
+      "restaurantName": "Burger King",
+      "category": "Burgers",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/RX_THUMBNAIL/IMAGES/VENDOR/2025/6/18/baee7763-1bf0-4d8a-9a77-1b1f81fe5419_45177.jpg",
+      "areaName": "Sector 35",
+      "locality": "Crown Interiorz Mall",
+      "restaurantInfo": {
+        "name": "Burger King",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Burgers",
+          "American"
+        ],
+        "avgRating": "4.2",
+        "areaName": "Sector 35",
+        "totalRatings": "27K+ ratings",
+        "costForTwoMessage": "₹350 for two",
+        "minMaxDeliveryTime": "40-45 mins"
+      }
+    },
+    {
+      "id": "1012136",
+      "restaurantId": "1012136",
+      "restaurantName": "McDonald's",
+      "category": "Burgers",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/ni4jj1hlo4zt7i3ioaow",
+      "areaName": "SARITA VIHAR",
+      "locality": "Kalindi Kunj DT",
+      "restaurantInfo": {
+        "name": "McDonald's",
+        "cityName": "Delhi",
+        "cuisines": [
+          "American",
+          "Fast Food"
+        ],
+        "avgRating": "4.3",
+        "areaName": "SARITA VIHAR",
+        "totalRatings": "1.0K+ ratings",
+        "costForTwoMessage": "₹400 for two",
+        "minMaxDeliveryTime": "40-45 mins"
+      }
+    },
+    {
+      "id": "958097",
+      "restaurantId": "958097",
+      "restaurantName": "Burger Singh(Big Punjabi Burgers)",
+      "category": "Burgers",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/005a6f7a6adfd7f690ccaca15f9611f0",
+      "areaName": "DMRC Metro Station",
+      "locality": "Badarpur",
+      "restaurantInfo": {
+        "name": "Burger Singh(Big Punjabi Burgers)",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Burgers",
+          "Snacks"
+        ],
+        "avgRating": "4.1",
+        "areaName": "DMRC Metro Station",
+        "totalRatings": "2.0K+ ratings",
+        "costForTwoMessage": "₹300 for two",
+        "minMaxDeliveryTime": "30-40 mins"
+      }
+    },
+    {
+      "id": "1134336",
+      "restaurantId": "1134336",
+      "restaurantName": "Lsd Like Something Dope",
+      "category": "Burgers",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2025/11/10/241435b1-72a6-4192-b3d7-346bfceb4e4b_9af36cf4-b259-405e-829f-e1d73b0d24b4.png",
+      "areaName": "Lajpat Nagar",
+      "locality": "Lajpat Nagar",
+      "restaurantInfo": {
+        "name": "Lsd Like Something Dope",
+        "cityName": "Delhi",
+        "cuisines": [
+          "Burger",
+          "Fast Food"
+        ],
+        "avgRating": "4.1",
+        "areaName": "Lajpat Nagar",
+        "totalRatings": "700 ratings",
+        "costForTwoMessage": "₹299 for two",
+        "minMaxDeliveryTime": "45-50 mins"
+      }
+    },
+    {
+      "id": "524375",
+      "restaurantId": "524375",
+      "restaurantName": "Pizza & Burger Hub",
+      "category": "Burgers",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/bklurj48zqip4ch0uuu1",
+      "areaName": "Greenfields_FBD",
+      "locality": "Meethapur Jaitpur Road",
+      "restaurantInfo": {
+        "name": "Pizza & Burger Hub",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Pizzas",
+          "Fast Food"
+        ],
+        "avgRating": "4.1",
+        "areaName": "Greenfields_FBD",
+        "totalRatings": "1.8K+ ratings",
+        "costForTwoMessage": "₹150 for two",
+        "minMaxDeliveryTime": "720-725 mins"
+      }
+    },
+    {
+      "id": "1064560",
+      "restaurantId": "1064560",
+      "restaurantName": "KFC",
+      "category": "Burgers",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2026/6/8/4d00e8e8-76ca-4f7a-b02a-7264fbf28fbd_7eb6c478-f3a7-4f7a-be7a-e98058a63c62.jpg",
+      "areaName": "ANS Mall",
+      "locality": "Tughlakhabad",
+      "restaurantInfo": {
+        "name": "KFC",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Burgers",
+          "Fast Food"
+        ],
+        "avgRating": "4.2",
+        "areaName": "ANS Mall",
+        "totalRatings": "235 ratings",
+        "costForTwoMessage": "₹400 for two",
+        "minMaxDeliveryTime": "40-50 mins"
+      }
+    },
+    {
+      "id": "523809",
+      "restaurantId": "523809",
+      "restaurantName": "Pizza Expert",
+      "category": "Burgers",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/rls87nhavpqcnjfarfyt",
+      "areaName": "Ballabhgarh",
+      "locality": "Ballabhgarh",
+      "restaurantInfo": {
+        "name": "Pizza Expert",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Pizzas",
+          "Fast Food"
+        ],
+        "avgRating": "3.6",
+        "areaName": "Ballabhgarh",
+        "totalRatings": "2.1K+ ratings",
+        "costForTwoMessage": "₹250 for two",
+        "minMaxDeliveryTime": "25-30 mins"
+      }
+    },
+    {
+      "id": "1310137",
+      "restaurantId": "1310137",
+      "restaurantName": "Charcoal Eats - Biryani & Beyond",
+      "category": "Biryani",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2026/2/9/36eb7b00-eb55-4459-a1fb-2d2d566ce388_a8a55f79-12ac-4a18-832b-e4918f986515.jpg",
+      "areaName": "Suraj Kund Road",
+      "locality": "Pul Pehladpur",
+      "restaurantInfo": {
+        "name": "Charcoal Eats - Biryani & Beyond",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Biryani",
+          "Rolls & Wraps"
+        ],
+        "avgRating": "4.3",
+        "areaName": " Suraj Kund Road",
+        "totalRatings": "179 ratings",
+        "costForTwoMessage": "₹600 for two",
+        "minMaxDeliveryTime": "30-35 mins"
+      }
+    },
+    {
+      "id": "1366350",
+      "restaurantId": "1366350",
+      "restaurantName": "Khadak Singh Da Dhaba",
+      "category": "Biryani",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2025/4/23/b4e788e9-1a8a-4c26-b7ef-afe635c0077d_f980bf53-8ada-447d-ae2c-e9b2c7cd302c.jpg_compressed",
+      "areaName": "Greenfields_FBD",
+      "locality": "Greenfields_FBD",
+      "restaurantInfo": {
+        "name": "Khadak Singh Da Dhaba",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Biryani",
+          "Mughlai"
+        ],
+        "avgRating": "4.2",
+        "areaName": "Greenfields_FBD",
+        "totalRatings": "76 ratings",
+        "costForTwoMessage": "₹200 for two",
+        "minMaxDeliveryTime": "35-40 mins"
+      }
+    },
+    {
+      "id": "1246999",
+      "restaurantId": "1246999",
+      "restaurantName": "Thalaiva Biryani",
+      "category": "Biryani",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2026/5/14/ee77c307-6835-40a1-b039-c79d3427e8ad_749b066a-61e1-45ae-bde6-19ce48a2de39.jpeg",
+      "areaName": "D & E Sarita Viha",
+      "locality": "Pocket D & E",
+      "restaurantInfo": {
+        "name": "Thalaiva Biryani",
+        "cityName": "Delhi",
+        "cuisines": [
+          "Biryani",
+          "Mughlai"
+        ],
+        "avgRating": "4.4",
+        "areaName": "D & E Sarita Viha",
+        "totalRatings": "239 ratings",
+        "costForTwoMessage": "₹400 for two",
+        "minMaxDeliveryTime": "45-50 mins"
+      }
+    },
+    {
+      "id": "882160",
+      "restaurantId": "882160",
+      "restaurantName": "Bikkgane Biryani",
+      "category": "Biryani",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2026/6/23/424bede7-24cc-4874-b793-aecce54ea2b8_665fe391-1c03-4e70-8589-43c0a6a143ef.jpg_compressed",
+      "areaName": "Greater Kailash New",
+      "locality": "South East Delhi",
+      "restaurantInfo": {
+        "name": "Bikkgane Biryani",
+        "cityName": "Delhi",
+        "cuisines": [
+          "Biryani",
+          " Hyderabadi"
+        ],
+        "avgRating": "4.4",
+        "areaName": "Greater Kailash New",
+        "totalRatings": "1.8K+ ratings",
+        "costForTwoMessage": "₹350 for two",
+        "minMaxDeliveryTime": "40-45 mins"
+      }
+    },
+    {
+      "id": "1373720",
+      "restaurantId": "1373720",
+      "restaurantName": "The Cookie Lab - Thick. Gooey. Addictive",
+      "category": "Biryani",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/RX_THUMBNAIL/IMAGES/VENDOR/2026/6/3/a127abb0-9c02-4362-bd45-a84e8c13816d_1373720.jpg",
+      "areaName": "Sector 91",
+      "locality": "Sector 91",
+      "restaurantInfo": {
+        "name": "The Cookie Lab - Thick. Gooey. Addictive",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Desserts",
+          "Bakery"
+        ],
+        "avgRating": "5.0",
+        "areaName": "Sector 91",
+        "totalRatings": "7 ratings",
+        "costForTwoMessage": "₹300 for two",
+        "minMaxDeliveryTime": "30-35 mins"
+      }
+    },
+    {
+      "id": "49243",
+      "restaurantId": "49243",
+      "restaurantName": "Behrouz Biryani",
+      "category": "Biryani",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/a4ffed13eb197c6df43dfe1c756560e5",
+      "areaName": "Sarita Vihar",
+      "locality": "Pocket D & E Sarita Vihar",
+      "restaurantInfo": {
+        "name": "Behrouz Biryani",
+        "cityName": "Delhi",
+        "cuisines": [
+          "Biryani",
+          "North Indian"
+        ],
+        "avgRating": "4.3",
+        "areaName": "Sarita Vihar",
+        "totalRatings": "5.3K+ ratings",
+        "costForTwoMessage": "₹500 for two",
+        "minMaxDeliveryTime": "45-50 mins"
+      }
+    },
+    {
+      "id": "793291",
+      "restaurantId": "793291",
+      "restaurantName": "Ahmad Muradabadi Chicken Corner Biryani",
+      "category": "Biryani",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/778b0d84179425b9d4c61ca9d5ad1f3a",
+      "areaName": "Greenfields_FBD",
+      "locality": "Mathura Road",
+      "restaurantInfo": {
+        "name": "Ahmad Muradabadi Chicken Corner Biryani",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Biryani"
+        ],
+        "avgRating": "3.6",
+        "areaName": "Greenfields_FBD",
+        "totalRatings": "344 ratings",
+        "costForTwoMessage": "₹300 for two",
+        "minMaxDeliveryTime": "30-35 mins"
+      }
+    },
+    {
+      "id": "775707",
+      "restaurantId": "775707",
+      "restaurantName": "RollsKing",
+      "category": "Momos",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2026/2/9/2d875a09-e9b5-4a14-a48f-33be598f1b28_478eca89-ff02-4182-b80a-ea15a6d83361.jpeg",
+      "areaName": "Greenfields_FBD",
+      "locality": "Greenfields_FBD",
+      "restaurantInfo": {
+        "name": "RollsKing",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Rolls & Wraps",
+          "Fast Food"
+        ],
+        "avgRating": "4.1",
+        "areaName": "Greenfields_FBD",
+        "totalRatings": "1.4K+ ratings",
+        "costForTwoMessage": "₹250 for two",
+        "minMaxDeliveryTime": "30-40 mins"
+      }
+    },
+    {
+      "id": "655871",
+      "restaurantId": "655871",
+      "restaurantName": "Big Bowl",
+      "category": "Momos",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/RX_THUMBNAIL/IMAGES/VENDOR/2024/6/22/30548ac4-2e57-4c1d-ba73-8372f74a1ad2_655871.JPG",
+      "areaName": "Badarpur Metro Station",
+      "locality": "KALKAJI",
+      "restaurantInfo": {
+        "name": "Big Bowl",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Chinese",
+          "Tibetan"
+        ],
+        "avgRating": "4.1",
+        "areaName": "Badarpur Metro Station",
+        "totalRatings": "1.1K+ ratings",
+        "costForTwoMessage": "₹250 for two",
+        "minMaxDeliveryTime": "30-35 mins"
+      }
+    },
+    {
+      "id": "855113",
+      "restaurantId": "855113",
+      "restaurantName": "Rolling Fresh",
+      "category": "Momos",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2025/6/27/3b09cd7c-ba70-4a4f-87fe-89e0ba16d2c8_ea420ef2-59ee-481b-ae9a-5b97082fc270.jpeg",
+      "areaName": "Greenfields",
+      "locality": "Azad Market",
+      "restaurantInfo": {
+        "name": "Rolling Fresh",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Rolls & Wraps",
+          "Fast Food"
+        ],
+        "avgRating": "4.0",
+        "areaName": "Greenfields",
+        "totalRatings": "485 ratings",
+        "costForTwoMessage": "₹250 for two",
+        "minMaxDeliveryTime": "30-40 mins"
+      }
+    },
+    {
+      "id": "636418",
+      "restaurantId": "636418",
+      "restaurantName": "Better Food Co.",
+      "category": "Momos",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2026/1/15/d160f1a1-e8a8-44c1-b175-893dfedacf85_ce1eb454-9bee-4063-ae2a-bf96c9750482.jpg",
+      "areaName": "Sector 28",
+      "locality": "Sector 16",
+      "restaurantInfo": {
+        "name": "Better Food Co.",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Burgers",
+          "Snacks"
+        ],
+        "avgRating": "4.1",
+        "areaName": "Sector 28",
+        "totalRatings": "38 ratings",
+        "costForTwoMessage": "₹150 for two",
+        "minMaxDeliveryTime": "45-50 mins"
+      }
+    },
+    {
+      "id": "1074605",
+      "restaurantId": "1074605",
+      "restaurantName": "Mohan Lama Momos",
+      "category": "Momos",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2026/1/18/00582d25-44d7-4576-89a3-c33f373e6ebd_afce9ad2-039f-4c9e-b0d8-b1a5b20e7335.JPG",
+      "areaName": "Greenfields_FBD",
+      "locality": "Greenfields_FBD",
+      "restaurantInfo": {
+        "name": "Mohan Lama Momos",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Chinese"
+        ],
+        "avgRating": "4.3",
+        "areaName": "Greenfields_FBD",
+        "totalRatings": "47 ratings",
+        "costForTwoMessage": "₹350 for two",
+        "minMaxDeliveryTime": "35-40 mins"
+      }
+    },
+    {
+      "id": "1008131",
+      "restaurantId": "1008131",
+      "restaurantName": "Ka-Ching",
+      "category": "Momos",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2026/4/11/f86b8bea-241f-4a34-93b3-53b66ac54465_7c49cc8e-a787-46be-9cb3-9b6befdc6a42.png_compressed",
+      "areaName": "Tughlakabad",
+      "locality": "ANS Metro Mall",
+      "restaurantInfo": {
+        "name": "Ka-Ching",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Chinese",
+          "Momos"
+        ],
+        "avgRating": "4.1",
+        "areaName": "Tughlakabad",
+        "totalRatings": "68 ratings",
+        "costForTwoMessage": "₹250 for two",
+        "minMaxDeliveryTime": "40-45 mins"
+      }
+    },
+    {
+      "id": "126518",
+      "restaurantId": "126518",
+      "restaurantName": "Daily Dose",
+      "category": "Momos",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2025/2/18/d07fcc3f-ee63-4ca4-9e8f-31964d72014b_b1a1609f-19bb-4457-89d0-62bdbef9870e.jpg",
+      "areaName": "Charmwood Village",
+      "locality": "Charmwood Village",
+      "restaurantInfo": {
+        "name": "Daily Dose",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Italian",
+          "Tandoor"
+        ],
+        "avgRating": "4.4",
+        "areaName": "Charmwood Village",
+        "totalRatings": "2.5K+ ratings",
+        "costForTwoMessage": "₹200 for two",
+        "minMaxDeliveryTime": "35-40 mins"
+      }
+    },
+    {
+      "id": "996761",
+      "restaurantId": "996761",
+      "restaurantName": "Subway",
+      "category": "Rolls",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2025/7/21/afaf93d3-7330-4e2c-a303-1405f7b7dfa5_0dbc6f6c-5aa4-4f27-ba74-ce891d91ebc9.jpg",
+      "areaName": "CBD Charmwood",
+      "locality": "Sector 39",
+      "restaurantInfo": {
+        "name": "Subway",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "sandwich",
+          "Salads"
+        ],
+        "avgRating": "4.1",
+        "areaName": "CBD Charmwood",
+        "totalRatings": "674 ratings",
+        "costForTwoMessage": "₹350 for two",
+        "minMaxDeliveryTime": "35-40 mins"
+      }
+    },
+    {
+      "id": "654091",
+      "restaurantId": "654091",
+      "restaurantName": "Taco Bell",
+      "category": "Rolls",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/RX_THUMBNAIL/IMAGES/VENDOR/2025/7/10/827357d3-2150-4776-8f4e-60ddde40c0d1_654091.JPG",
+      "areaName": "JASOLA",
+      "locality": "PACIFIC MALL",
+      "restaurantInfo": {
+        "name": "Taco Bell",
+        "cityName": "Delhi",
+        "cuisines": [
+          "Mexican",
+          "Fast Food"
+        ],
+        "avgRating": "4.4",
+        "areaName": "JASOLA",
+        "totalRatings": "1.2K+ ratings",
+        "costForTwoMessage": "₹300 for two",
+        "minMaxDeliveryTime": "40-45 mins"
+      }
+    },
+    {
+      "id": "593269",
+      "restaurantId": "593269",
+      "restaurantName": "Royal Biryani House",
+      "category": "Rolls",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/98e4f84bd57884dec961298ba7c7b9de",
+      "areaName": "Jasola",
+      "locality": "Jasola",
+      "restaurantInfo": {
+        "name": "Royal Biryani House",
+        "cityName": "Delhi",
+        "cuisines": [
+          "Biryani",
+          "Snacks"
+        ],
+        "avgRating": "4.2",
+        "areaName": "Jasola",
+        "totalRatings": "778 ratings",
+        "costForTwoMessage": "₹280 for two",
+        "minMaxDeliveryTime": "45-55 mins"
+      }
+    },
+    {
+      "id": "1326289",
+      "restaurantId": "1326289",
+      "restaurantName": "Mom's Kitchen",
+      "category": "South Indian",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/rest_image/8bf729d6-8aa3-11ed-b791-06585e0038e8Monday_02_January_2023__19_14id662527.jpg",
+      "areaName": "OM Nagar",
+      "locality": "Meethapur",
+      "restaurantInfo": {
+        "name": "Mom's Kitchen",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Salads",
+          "Fast Food"
+        ],
+        "avgRating": "2.4",
+        "areaName": "OM Nagar",
+        "totalRatings": "3 ratings",
+        "costForTwoMessage": "₹299 for two",
+        "minMaxDeliveryTime": "25-30 mins"
+      }
+    },
+    {
+      "id": "571515",
+      "restaurantId": "571515",
+      "restaurantName": "Love Kush Sweets",
+      "category": "South Indian",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/ve2ytxvzbhvzhnbz1xqp",
+      "areaName": "Hari Nagar",
+      "locality": "Hari Nagar Extn",
+      "restaurantInfo": {
+        "name": "Love Kush Sweets",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "North Indian",
+          "South Indian"
+        ],
+        "avgRating": "3.9",
+        "areaName": "Hari Nagar",
+        "totalRatings": "104 ratings",
+        "costForTwoMessage": "₹450 for two",
+        "minMaxDeliveryTime": "20-25 mins"
+      }
+    },
+    {
+      "id": "1320426",
+      "restaurantId": "1320426",
+      "restaurantName": "Haldiram's",
+      "category": "South Indian",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/RX_THUMBNAIL/IMAGES/VENDOR/2026/6/19/98ab2003-8f4e-42ab-8bfb-7e3f4f66e08e_1320426.JPG",
+      "areaName": "CBD Commercial Mall",
+      "locality": "Sector -39",
+      "restaurantInfo": {
+        "name": "Haldiram's",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Desserts",
+          "South Indian"
+        ],
+        "avgRating": "4.1",
+        "areaName": " CBD Commercial Mall",
+        "totalRatings": "116 ratings",
+        "costForTwoMessage": "₹450 for two",
+        "minMaxDeliveryTime": "40-50 mins"
+      }
+    },
+    {
+      "id": "347045",
+      "restaurantId": "347045",
+      "restaurantName": "The Biryani Exchange",
+      "category": "South Indian",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/whe5anwjemjzxyncnksm",
+      "areaName": "Sector 35",
+      "locality": "Sector 35",
+      "restaurantInfo": {
+        "name": "The Biryani Exchange",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Biryani",
+          "Hyderabadi"
+        ],
+        "avgRating": "4.1",
+        "areaName": "Sector 35",
+        "totalRatings": "1.6K+ ratings",
+        "costForTwoMessage": "₹400 for two",
+        "minMaxDeliveryTime": "40-45 mins"
+      }
+    },
+    {
+      "id": "42026",
+      "restaurantId": "42026",
+      "restaurantName": "Anupam Sweet House",
+      "category": "South Indian",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/qfwp3ui9eib3gybulrmt",
+      "areaName": "Sector 42",
+      "locality": "Sector 37",
+      "restaurantInfo": {
+        "name": "Anupam Sweet House",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Sweets",
+          "South Indian"
+        ],
+        "avgRating": "4.0",
+        "areaName": "Sector 42",
+        "totalRatings": "4.4K+ ratings",
+        "costForTwoMessage": "₹300 for two",
+        "minMaxDeliveryTime": "764-769 mins"
+      }
+    },
+    {
+      "id": "924731",
+      "restaurantId": "924731",
+      "restaurantName": "ARISII",
+      "category": "South Indian",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/RX_THUMBNAIL/IMAGES/VENDOR/2024/7/18/5e5b8730-83a9-4ccd-a21a-ce955d1dce68_924731.ss.jpg",
+      "areaName": "Sector 35",
+      "locality": "Sector 35",
+      "restaurantInfo": {
+        "name": "ARISII",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "South Indian",
+          "Seafood"
+        ],
+        "avgRating": "4.3",
+        "areaName": "Sector 35",
+        "totalRatings": "292 ratings",
+        "costForTwoMessage": "₹500 for two",
+        "minMaxDeliveryTime": "35-40 mins"
+      }
+    },
+    {
+      "id": "572126",
+      "restaurantId": "572126",
+      "restaurantName": "Goolu Brothers",
+      "category": "Chinese",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2026/2/6/27588a30-1263-4417-938f-81f1612531c4_c2c49f56-55c4-4231-8588-b6538f52f209.JPG",
+      "areaName": "Sector 37",
+      "locality": "Huda Market",
+      "restaurantInfo": {
+        "name": "Goolu Brothers",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Chinese",
+          "Snacks"
+        ],
+        "avgRating": "3.9",
+        "areaName": "Sector 37",
+        "totalRatings": "339 ratings",
+        "costForTwoMessage": "₹200 for two",
+        "minMaxDeliveryTime": "30-35 mins"
+      }
+    },
+    {
+      "id": "655870",
+      "restaurantId": "655870",
+      "restaurantName": "Chinese Wok",
+      "category": "Chinese",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/e0839ff574213e6f35b3899ebf1fc597",
+      "areaName": "Badarpur Metro Station",
+      "locality": "KALKAJI",
+      "restaurantInfo": {
+        "name": "Chinese Wok",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Chinese",
+          "Asian"
+        ],
+        "avgRating": "4.1",
+        "areaName": "Badarpur Metro Station",
+        "totalRatings": "1.6K+ ratings",
+        "costForTwoMessage": "₹250 for two",
+        "minMaxDeliveryTime": "30-35 mins"
+      }
+    },
+    {
+      "id": "826426",
+      "restaurantId": "826426",
+      "restaurantName": "Holy Smoke",
+      "category": "Chinese",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2024/6/28/a5ee91df-afcc-4314-a7a0-fc2e94e74541_903ab37c-e96d-47dd-ad4d-da641c0acdbf.JPG",
+      "areaName": "Greenfields",
+      "locality": "Sector 37",
+      "restaurantInfo": {
+        "name": "Holy Smoke",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Chinese",
+          "Biryani"
+        ],
+        "avgRating": "3.7",
+        "areaName": "Greenfields",
+        "totalRatings": "926 ratings",
+        "costForTwoMessage": "₹1000 for two",
+        "minMaxDeliveryTime": "35-40 mins"
+      }
+    },
+    {
+      "id": "1061461",
+      "restaurantId": "1061461",
+      "restaurantName": "Vadilal Ice Creams",
+      "category": "Ice Cream",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2024/5/28/f3db30ee-4c61-479c-bb9a-d169545f2d3b_1e1fc0a2-5030-4c27-b3a9-9ad33bdb9c5d.jpg",
+      "areaName": "Chattarpur",
+      "locality": "Lakhapat Colony",
+      "restaurantInfo": {
+        "name": "Vadilal Ice Creams",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Desserts"
+        ],
+        "avgRating": "3.9",
+        "areaName": "Chattarpur",
+        "totalRatings": "35 ratings",
+        "costForTwoMessage": "₹250 for two",
+        "minMaxDeliveryTime": "25-30 mins"
+      }
+    },
+    {
+      "id": "1256640",
+      "restaurantId": "1256640",
+      "restaurantName": "Papacream - Ice Creams & Desserts",
+      "category": "Ice Cream",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2026/4/12/4f8e314f-f9ee-4c74-8626-288c1294c779_44eff407-6265-4a6b-9e64-6f57dfad292c.jpeg",
+      "areaName": "Sector 31",
+      "locality": "Neelam Bata Chowk",
+      "restaurantInfo": {
+        "name": "Papacream - Ice Creams & Desserts",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Desserts",
+          "Ice Cream"
+        ],
+        "avgRating": "4.6",
+        "areaName": "Sector 31",
+        "totalRatings": "7 ratings",
+        "costForTwoMessage": "₹300 for two",
+        "minMaxDeliveryTime": "35-40 mins"
+      }
+    },
+    {
+      "id": "1174561",
+      "restaurantId": "1174561",
+      "restaurantName": "FNP Cakes By Ferns N Petals",
+      "category": "Ice Cream",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/RX_THUMBNAIL/IMAGES/VENDOR/2026/6/24/0ab11a8f-8a2d-47e3-8e39-2a9311448078_1174561.JPG",
+      "areaName": "Sector 37",
+      "locality": "NEAR SANATAN DHARM MANDIR",
+      "restaurantInfo": {
+        "name": "FNP Cakes By Ferns N Petals",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Desserts",
+          "Bakery"
+        ],
+        "avgRating": "4.7",
+        "areaName": "Sector 37",
+        "totalRatings": "168 ratings",
+        "costForTwoMessage": "₹499 for two",
+        "minMaxDeliveryTime": "30-35 mins"
+      }
+    },
+    {
+      "id": "1175181",
+      "restaurantId": "1175181",
+      "restaurantName": "Keventers - Milkshakes & Waffles",
+      "category": "Ice Cream",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2025/8/1/30dcb18a-603c-4850-939e-725d801dd354_6c050b76-ee2e-4982-971d-58e294b4a262.jpg",
+      "areaName": "Crown Interiors Mall",
+      "locality": "Sector-35",
+      "restaurantInfo": {
+        "name": "Keventers - Milkshakes & Waffles",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Beverages",
+          "Ice Cream"
+        ],
+        "avgRating": "4.1",
+        "areaName": "Crown Interiors Mall",
+        "totalRatings": "151 ratings",
+        "costForTwoMessage": "₹300 for two",
+        "minMaxDeliveryTime": "40-45 mins"
+      }
+    },
+    {
+      "id": "777165",
+      "restaurantId": "777165",
+      "restaurantName": "Go Zero Ice Creams & Desserts",
+      "category": "Ice Cream",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2025/11/3/04788471-dc15-4fb8-a6f4-f04719cc9786_04ef3f3d-0cf6-4624-b07c-977e8bcd5d96.jpg_compressed",
+      "areaName": "Okhla",
+      "locality": "Sanjay Colony",
+      "restaurantInfo": {
+        "name": "Go Zero Ice Creams & Desserts",
+        "cityName": "Delhi",
+        "cuisines": [
+          "Ice Cream",
+          "Desserts"
+        ],
+        "avgRating": "4.4",
+        "areaName": "Okhla",
+        "totalRatings": "241 ratings",
+        "costForTwoMessage": "₹150 for two",
+        "minMaxDeliveryTime": "40-45 mins"
+      }
+    },
+    {
+      "id": "687142",
+      "restaurantId": "687142",
+      "restaurantName": "Minus 30",
+      "category": "Ice Cream",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/84dfb731ca567d0cd955a5f33ffeba3a",
+      "areaName": "Jasola",
+      "locality": "Okhla Industrial Area",
+      "restaurantInfo": {
+        "name": "Minus 30",
+        "cityName": "Delhi",
+        "cuisines": [
+          "Desserts",
+          "Beverages"
+        ],
+        "avgRating": "4.1",
+        "areaName": "Jasola",
+        "totalRatings": "495 ratings",
+        "costForTwoMessage": "₹600 for two",
+        "minMaxDeliveryTime": "40-45 mins"
+      }
+    },
+    {
+      "id": "711892",
+      "restaurantId": "711892",
+      "restaurantName": "Cafe Chennai",
+      "category": "Dosa",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2025/8/29/cb1ef2a7-ed58-4977-926c-715da515bede_cba0bcf4-5fff-4392-9600-9c01056bdb0e.jpg",
+      "areaName": "Jasola",
+      "locality": "Kaushambi",
+      "restaurantInfo": {
+        "name": "Cafe Chennai",
+        "cityName": "Delhi",
+        "cuisines": [
+          "South Indian"
+        ],
+        "avgRating": "2.9",
+        "areaName": "Jasola",
+        "totalRatings": "21 ratings",
+        "costForTwoMessage": "₹350 for two",
+        "minMaxDeliveryTime": "50-60 mins"
+      }
+    },
+    {
+      "id": "923530",
+      "restaurantId": "923530",
+      "restaurantName": "Murliwala Aggarwal Sweets",
+      "category": "Dosa",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/eljuvzlm82xhzn9lctbx",
+      "areaName": "Greenfields_FBD",
+      "locality": "Sharma Market",
+      "restaurantInfo": {
+        "name": "Murliwala Aggarwal Sweets",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "North Indian",
+          "South Indian"
+        ],
+        "avgRating": "4.1",
+        "areaName": "Greenfields_FBD",
+        "totalRatings": "383 ratings",
+        "costForTwoMessage": "₹200 for two",
+        "minMaxDeliveryTime": "25-30 mins"
+      }
+    },
+    {
+      "id": "896617",
+      "restaurantId": "896617",
+      "restaurantName": "Suprasaad",
+      "category": "Dosa",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/RX_THUMBNAIL/IMAGES/VENDOR/2025/1/8/3153396b-27b0-401b-9368-1c0e9ea67ba8_896617 (1).jpg",
+      "areaName": "Lajpat Nagar",
+      "locality": "Main Mathura Road",
+      "restaurantInfo": {
+        "name": "Suprasaad",
+        "cityName": "Delhi",
+        "cuisines": [
+          "South Indian"
+        ],
+        "avgRating": "4.4",
+        "areaName": "Lajpat Nagar",
+        "totalRatings": "2.0K+ ratings",
+        "costForTwoMessage": "₹500 for two",
+        "minMaxDeliveryTime": "50-60 mins"
+      }
+    },
+    {
+      "id": "969926",
+      "restaurantId": "969926",
+      "restaurantName": "Dosa Coffee",
+      "category": "Dosa",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2024/4/27/0b8b6733-d985-47db-b00a-623829461b7c_da50ea3e-ba8f-4b43-a641-62a1a018d01a.png",
+      "areaName": "Greater Kailash 2",
+      "locality": "Greater Kailash 2",
+      "restaurantInfo": {
+        "name": "Dosa Coffee",
+        "cityName": "Delhi",
+        "cuisines": [
+          "South Indian",
+          "Beverages"
+        ],
+        "avgRating": "4.5",
+        "areaName": "Greater Kailash 2",
+        "totalRatings": "400 ratings",
+        "costForTwoMessage": "₹400 for two",
+        "minMaxDeliveryTime": "45-50 mins"
+      }
+    },
+    {
+      "id": "162241",
+      "restaurantId": "162241",
+      "restaurantName": "Sagar Ratna",
+      "category": "Dosa",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2025/5/20/28f19a14-070c-41a9-b817-23125a1d2c90_561e609b-7d4e-4170-8fc3-ae21372d9c00.jpeg",
+      "areaName": "Sector 35",
+      "locality": "Crown Interiorz Mall",
+      "restaurantInfo": {
+        "name": "Sagar Ratna",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "South Indian",
+          "Chinese"
+        ],
+        "avgRating": "4.4",
+        "areaName": "Sector 35",
+        "totalRatings": "1.0K+ ratings",
+        "costForTwoMessage": "₹400 for two",
+        "minMaxDeliveryTime": "40-50 mins"
+      }
+    },
+    {
+      "id": "451982",
+      "restaurantId": "451982",
+      "restaurantName": "Bake Mart",
+      "category": "Dosa",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2026/1/17/2e3126a4-381f-4f14-a1ee-b854c952e490_36448333-fee9-4889-b35e-e954d045605b.JPG",
+      "areaName": "Sector 31",
+      "locality": "Sector 31",
+      "restaurantInfo": {
+        "name": "Bake Mart",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Indian",
+          "Chinese"
+        ],
+        "avgRating": "4.0",
+        "areaName": "Sector 31",
+        "totalRatings": "53 ratings",
+        "costForTwoMessage": "₹400 for two",
+        "minMaxDeliveryTime": "45-50 mins"
+      }
+    },
+    {
+      "id": "395841",
+      "restaurantId": "395841",
+      "restaurantName": "Amma Dosa Food Point",
+      "category": "Dosa",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/u7bwvcehxfmav14ibdei",
+      "areaName": "Greater Kailash New",
+      "locality": "Rajiv Gandhi Colony",
+      "restaurantInfo": {
+        "name": "Amma Dosa Food Point",
+        "cityName": "Delhi",
+        "cuisines": [
+          "South Indian"
+        ],
+        "avgRating": "3.2",
+        "areaName": "Greater Kailash New",
+        "totalRatings": "28 ratings",
+        "costForTwoMessage": "₹250 for two",
+        "minMaxDeliveryTime": "45-50 mins"
+      }
+    },
+    {
+      "id": "242000",
+      "restaurantId": "242000",
+      "restaurantName": "Annapoorna Restaurant",
+      "category": "Paratha",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/2f2d4ed276e4bce539ccc2898cfdd51c",
+      "areaName": "Greenfields_FBD",
+      "locality": "Inder Colony",
+      "restaurantInfo": {
+        "name": "Annapoorna Restaurant",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Indian",
+          "Snacks"
+        ],
+        "avgRating": "3.3",
+        "areaName": "Greenfields_FBD",
+        "totalRatings": "4.5K+ ratings",
+        "costForTwoMessage": "₹150 for two",
+        "minMaxDeliveryTime": "40-45 mins"
+      }
+    },
+    {
+      "id": "27539",
+      "restaurantId": "27539",
+      "restaurantName": "World Cafe - Vibe by The LaLiT Traveller",
+      "category": "Paratha",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/sk99r26ix8lqhcryb2fh",
+      "areaName": "Sector 35",
+      "locality": "Sector 35",
+      "restaurantInfo": {
+        "name": "World Cafe - Vibe by The LaLiT Traveller",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Indian"
+        ],
+        "avgRating": "4.3",
+        "areaName": "Sector 35",
+        "totalRatings": "387 ratings",
+        "costForTwoMessage": "₹1000 for two",
+        "minMaxDeliveryTime": "35-40 mins"
+      }
+    },
+    {
+      "id": "1008128",
+      "restaurantId": "1008128",
+      "restaurantName": "The Indian Stories",
+      "category": "Paratha",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2024/3/12/2e88e024-9b67-4b66-9cde-f74a0a43fbaf_e5d00348-9099-45d1-9aca-b024714e537f.png_compressed",
+      "areaName": "Greenfields_FBD",
+      "locality": "Tughlakabad",
+      "restaurantInfo": {
+        "name": "The Indian Stories",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "North Indian",
+          "Biryani"
+        ],
+        "avgRating": "4.0",
+        "areaName": "Greenfields_FBD",
+        "totalRatings": "150 ratings",
+        "costForTwoMessage": "₹499 for two",
+        "minMaxDeliveryTime": "35-45 mins"
+      }
+    },
+    {
+      "id": "167097",
+      "restaurantId": "167097",
+      "restaurantName": "Kurries Aap ki Khatir",
+      "category": "Paratha",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2025/3/6/d404bb20-cfdd-4021-aeea-5d928fcdafb0_f18578dc-fb05-49dc-ae53-de9069f2a1bb.JPG",
+      "areaName": "Badarpur Border",
+      "locality": "Molarband Extension",
+      "restaurantInfo": {
+        "name": "Kurries Aap ki Khatir",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "North Indian"
+        ],
+        "avgRating": "3.9",
+        "areaName": "Badarpur Border",
+        "totalRatings": "2.6K+ ratings",
+        "costForTwoMessage": "₹200 for two",
+        "minMaxDeliveryTime": "30-40 mins"
+      }
+    },
+    {
+      "id": "509815",
+      "restaurantId": "509815",
+      "restaurantName": "Triple B Restaurant",
+      "category": "Paratha",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2024/7/9/ac9b864e-9b1e-47a4-b168-b270d1d963f2_b3189200-8993-4cd0-98bd-ec34f16841ac.JPG",
+      "areaName": "Greenfields_FBD",
+      "locality": "Badarpur",
+      "restaurantInfo": {
+        "name": "Triple B Restaurant",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "North Indian",
+          "Chinese"
+        ],
+        "avgRating": "3.7",
+        "areaName": "Greenfields_FBD",
+        "totalRatings": "180 ratings",
+        "costForTwoMessage": "₹700 for two",
+        "minMaxDeliveryTime": "20-25 mins"
+      }
+    },
+    {
+      "id": "325116",
+      "restaurantId": "325116",
+      "restaurantName": "Masala Chaska",
+      "category": "Paratha",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2026/2/4/4fc6f63c-fa57-45ff-a724-9c47b0599e6a_db79affa-edc3-4897-8e2f-2e086571bdd1.jpg",
+      "areaName": "Sector 37",
+      "locality": "Sector 37",
+      "restaurantInfo": {
+        "name": "Masala Chaska",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Chinese",
+          "Thalis"
+        ],
+        "avgRating": "3.6",
+        "areaName": "Sector 37",
+        "totalRatings": "694 ratings",
+        "costForTwoMessage": "₹250 for two",
+        "minMaxDeliveryTime": "35-40 mins"
+      }
+    },
+    {
+      "id": "420384",
+      "restaurantId": "420384",
+      "restaurantName": "Spark The Hunger",
+      "category": "Paratha",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2025/3/6/b20ecb76-8272-4749-9d47-e858dfcfb52b_23bbb6d0-f143-4052-b9b1-24afbcab98e0.JPG",
+      "areaName": "Faridabad Town",
+      "locality": "Inder Colony",
+      "restaurantInfo": {
+        "name": "Spark The Hunger",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "North Indian"
+        ],
+        "avgRating": "3.3",
+        "areaName": "Faridabad Town",
+        "totalRatings": "664 ratings",
+        "costForTwoMessage": "₹200 for two",
+        "minMaxDeliveryTime": "40-50 mins"
+      }
+    },
+    {
+      "id": "301752",
+      "restaurantId": "301752",
+      "restaurantName": "Pizza House",
+      "category": "Noodles",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2024/10/2/4548b9be-589b-4ecf-b722-31da4a566be1_52f2d40a-4e33-4b30-b01f-5b49e48b7e6d.jpg",
+      "areaName": "Greenfields_FBD",
+      "locality": "Sarita Vihar",
+      "restaurantInfo": {
+        "name": "Pizza House",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Pizzas"
+        ],
+        "avgRating": "3.3",
+        "areaName": "Greenfields_FBD",
+        "totalRatings": "5 ratings",
+        "costForTwoMessage": "₹200 for two",
+        "minMaxDeliveryTime": "30-35 mins"
+      }
+    },
+    {
+      "id": "855489",
+      "restaurantId": "855489",
+      "restaurantName": "Apni Veg Rasoi",
+      "category": "Noodles",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2025/7/4/0071d870-fb60-4bf3-9362-5a4d33109227_8164c558-7b65-4a6d-a18e-d43066217ee3.jpg",
+      "areaName": "Greater Kailash New",
+      "locality": "Sarita Vihar",
+      "restaurantInfo": {
+        "name": "Apni Veg Rasoi",
+        "cityName": "Delhi",
+        "cuisines": [
+          "Beverages",
+          "Fast Food"
+        ],
+        "avgRating": "3.3",
+        "areaName": "Greater Kailash New",
+        "totalRatings": "59 ratings",
+        "costForTwoMessage": "₹250 for two",
+        "minMaxDeliveryTime": "45-50 mins"
+      }
+    },
+    {
+      "id": "28289",
+      "restaurantId": "28289",
+      "restaurantName": "Balaji Restaurant",
+      "category": "Rasmalai",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2024/7/15/40ddc36c-2d67-4da1-810d-0bc97b8aa2cd_69c0dde9-5d3b-4113-bf1c-2740513feb38.jpg",
+      "areaName": "Sector 28",
+      "locality": "Market Sector 28",
+      "restaurantInfo": {
+        "name": "Balaji Restaurant",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Desserts",
+          "Chinese"
+        ],
+        "avgRating": "4.0",
+        "areaName": "Sector 28",
+        "totalRatings": "6.7K+ ratings",
+        "costForTwoMessage": "₹200 for two",
+        "minMaxDeliveryTime": "40-50 mins"
+      }
+    },
+    {
+      "id": "63077",
+      "restaurantId": "63077",
+      "restaurantName": "Wow! Momo",
+      "category": "Rasmalai",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/RX_THUMBNAIL/IMAGES/VENDOR/2026/6/25/5e24ed2a-1052-4a34-86fb-3732d11d5357_63077.JPG",
+      "areaName": "Sector 35",
+      "locality": "Sector 35",
+      "restaurantInfo": {
+        "name": "Wow! Momo",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Momos",
+          "Chinese"
+        ],
+        "avgRating": "4.0",
+        "areaName": "Sector 35",
+        "totalRatings": "2.9K+ ratings",
+        "costForTwoMessage": "₹300 for two",
+        "minMaxDeliveryTime": "45-55 mins"
+      }
+    },
+    {
+      "id": "1007762",
+      "restaurantId": "1007762",
+      "restaurantName": "Milan",
+      "category": "Rasmalai",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2024/12/21/526034b1-c48e-40aa-9a19-100dc588fba9_13ef80a3-1e3f-4ace-ab34-2780cedd8102.jpeg",
+      "areaName": "Sector 46",
+      "locality": "Sector 46",
+      "restaurantInfo": {
+        "name": "Milan",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Chaat",
+          "Sweets"
+        ],
+        "avgRating": "4.3",
+        "areaName": "Sector 46",
+        "totalRatings": "2.1K+ ratings",
+        "costForTwoMessage": "₹350 for two",
+        "minMaxDeliveryTime": "45-55 mins"
+      }
+    },
+    {
+      "id": "659240",
+      "restaurantId": "659240",
+      "restaurantName": "Wow! China",
+      "category": "Rasmalai",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/RX_THUMBNAIL/IMAGES/VENDOR/2025/10/22/ddb504dc-c872-4009-aefb-48f6dc750080_659240.JPG",
+      "areaName": "Sarita Vihar",
+      "locality": "Jasola Metro WC",
+      "restaurantInfo": {
+        "name": "Wow! China",
+        "cityName": "Delhi",
+        "cuisines": [
+          "Chinese",
+          "Asian"
+        ],
+        "avgRating": "4.0",
+        "areaName": "Sarita Vihar",
+        "totalRatings": "873 ratings",
+        "costForTwoMessage": "₹400 for two",
+        "minMaxDeliveryTime": "50-60 mins"
+      }
+    },
+    {
+      "id": "15844",
+      "restaurantId": "15844",
+      "restaurantName": "Faasos - Wraps, Rolls & Shawarma",
+      "category": "Rasmalai",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/RX_THUMBNAIL/IMAGES/VENDOR/2024/7/28/ec430a91-d4c4-4d17-8dc1-cc98d7d1085e_15844.JPG",
+      "areaName": "Kalkaji",
+      "locality": "Jagdamba Road",
+      "restaurantInfo": {
+        "name": "Faasos - Wraps, Rolls & Shawarma",
+        "cityName": "Delhi",
+        "cuisines": [
+          "Wraps",
+          "rolls"
+        ],
+        "avgRating": "4.3",
+        "areaName": "Kalkaji",
+        "totalRatings": "20K+ ratings",
+        "costForTwoMessage": "₹200 for two",
+        "minMaxDeliveryTime": "50-60 mins"
+      }
+    },
+    {
+      "id": "342623",
+      "restaurantId": "342623",
+      "restaurantName": "Nathu's Sweets",
+      "category": "Rasmalai",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/p3dubgiqx9uuknw7nkrq",
+      "areaName": "Jasola",
+      "locality": "Jasola",
+      "restaurantInfo": {
+        "name": "Nathu's Sweets",
+        "cityName": "Delhi",
+        "cuisines": [
+          "Desserts",
+          "South Indian"
+        ],
+        "avgRating": "4.4",
+        "areaName": "Jasola",
+        "totalRatings": "5.8K+ ratings",
+        "costForTwoMessage": "₹400 for two",
+        "minMaxDeliveryTime": "40-45 mins"
+      }
+    },
+    {
+      "id": "156168",
+      "restaurantId": "156168",
+      "restaurantName": "The Good Bowl",
+      "category": "Rasmalai",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/RX_THUMBNAIL/IMAGES/VENDOR/2024/11/15/66ab1eaf-06d2-4303-bd08-03f0221ac4fa_156168.jpg",
+      "areaName": "Kalkaji",
+      "locality": "Jagdamba Road",
+      "restaurantInfo": {
+        "name": "The Good Bowl",
+        "cityName": "Delhi",
+        "cuisines": [
+          "Biryani",
+          "North Indian"
+        ],
+        "avgRating": "4.3",
+        "areaName": "Kalkaji",
+        "totalRatings": "3.2K+ ratings",
+        "costForTwoMessage": "₹400 for two",
+        "minMaxDeliveryTime": "50-60 mins"
+      }
+    },
+    {
+      "id": "959660",
+      "restaurantId": "959660",
+      "restaurantName": "Juno's Pizza - Baking Fresh Since 1974",
+      "category": "Pasta",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/95bd9627fb0e397c6872dc496d52ff40",
+      "areaName": "Sector 31",
+      "locality": "Neelam Bata Chowk",
+      "restaurantInfo": {
+        "name": "Juno's Pizza - Baking Fresh Since 1974",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Pizzas",
+          "Pastas"
+        ],
+        "avgRating": "4.3",
+        "areaName": "Sector 31",
+        "totalRatings": "18 ratings",
+        "costForTwoMessage": "₹270 for two",
+        "minMaxDeliveryTime": "40-45 mins"
+      }
+    },
+    {
+      "id": "736174",
+      "restaurantId": "736174",
+      "restaurantName": "Crusto's - Cheese Burst Pizza By Olio",
+      "category": "Pasta",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/RX_THUMBNAIL/IMAGES/VENDOR/2025/12/24/3d10ee28-d67c-47a5-836d-abd5b1cb02c8_736174.JPG",
+      "areaName": "Sector 31",
+      "locality": "Neelam Bata Chowk",
+      "restaurantInfo": {
+        "name": "Crusto's - Cheese Burst Pizza By Olio",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Pizzas",
+          "Pastas"
+        ],
+        "avgRating": "4.2",
+        "areaName": "Sector 31",
+        "totalRatings": "274 ratings",
+        "costForTwoMessage": "₹300 for two",
+        "minMaxDeliveryTime": "40-45 mins"
+      }
+    },
+    {
+      "id": "123107",
+      "restaurantId": "123107",
+      "restaurantName": "Cheese & More - The Kitchen",
+      "category": "Pasta",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2025/3/29/a7230936-e08b-4b88-89ee-2d060d00f6e1_ff5054c1-1e3b-48ad-aab3-92e89a8f9e36.jpg",
+      "areaName": "Charmwood Village",
+      "locality": "Charmwood Village",
+      "restaurantInfo": {
+        "name": "Cheese & More - The Kitchen",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "European",
+          "Continental"
+        ],
+        "avgRating": "4.1",
+        "areaName": "Charmwood Village",
+        "totalRatings": "209 ratings",
+        "costForTwoMessage": "₹500 for two",
+        "minMaxDeliveryTime": "45-50 mins"
+      }
+    },
+    {
+      "id": "145714",
+      "restaurantId": "145714",
+      "restaurantName": "Pizza House",
+      "category": "Pasta",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/nhdgschq0hjszfbegl9h",
+      "areaName": "Badarpur",
+      "locality": "Moral Band Extension",
+      "restaurantInfo": {
+        "name": "Pizza House",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Pizzas",
+          "Beverages"
+        ],
+        "avgRating": "3.3",
+        "areaName": "Badarpur",
+        "totalRatings": "289 ratings",
+        "costForTwoMessage": "₹200 for two",
+        "minMaxDeliveryTime": "30-35 mins"
+      }
+    },
+    {
+      "id": "1025803",
+      "restaurantId": "1025803",
+      "restaurantName": "Pizza Wings",
+      "category": "Pasta",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2026/3/21/660895d4-dd9a-49a7-a1ef-8b2cff2bbf63_09ce90c4-af40-4763-9cee-bf680b11fd6b.png_compressed",
+      "areaName": "Sector 37",
+      "locality": "Sector 37",
+      "restaurantInfo": {
+        "name": "Pizza Wings",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Pizzas",
+          "Italian"
+        ],
+        "avgRating": "4.0",
+        "areaName": "Sector 37",
+        "totalRatings": "2.7K+ ratings",
+        "costForTwoMessage": "₹399 for two",
+        "minMaxDeliveryTime": "35-40 mins"
+      }
+    },
+    {
+      "id": "421451",
+      "restaurantId": "421451",
+      "restaurantName": "Banjara",
+      "category": "Pasta",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/hcmnnzd6qyx8bs7remq4",
+      "areaName": "Surajkund",
+      "locality": "Surajkund",
+      "restaurantInfo": {
+        "name": "Banjara",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Indian",
+          "Continental"
+        ],
+        "avgRating": "--",
+        "areaName": "Surajkund",
+        "totalRatings": "Too Few Ratings",
+        "costForTwoMessage": "₹800 for two",
+        "minMaxDeliveryTime": "40-45 mins"
+      }
+    },
+    {
+      "id": "583815",
+      "restaurantId": "583815",
+      "restaurantName": "SMOOR",
+      "category": "Pastry",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/RX_THUMBNAIL/IMAGES/VENDOR/2026/6/22/60b3f264-22f5-427c-8e5a-9490f5de491f_583815.JPG",
+      "areaName": "Tughlakabad Institutional Area",
+      "locality": "Jagadamba Road",
+      "restaurantInfo": {
+        "name": "SMOOR",
+        "cityName": "Delhi",
+        "cuisines": [
+          "Desserts",
+          "Bakery"
+        ],
+        "avgRating": "4.6",
+        "areaName": "Tughlakabad Institutional Area",
+        "totalRatings": "674 ratings",
+        "costForTwoMessage": "₹350 for two",
+        "minMaxDeliveryTime": "45-50 mins"
+      }
+    },
+    {
+      "id": "758333",
+      "restaurantId": "758333",
+      "restaurantName": "Om Sweets & Snacks",
+      "category": "Pastry",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/RX_THUMBNAIL/IMAGES/VENDOR/2024/11/18/789d71e8-6035-4723-b1ff-2e17dea32179_758333.jpg",
+      "areaName": "Sector 31",
+      "locality": "Sector 31",
+      "restaurantInfo": {
+        "name": "Om Sweets & Snacks",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Sweets",
+          "North Indian"
+        ],
+        "avgRating": "4.5",
+        "areaName": "Sector 31",
+        "totalRatings": "9.9K+ ratings",
+        "costForTwoMessage": "₹300 for two",
+        "minMaxDeliveryTime": "40-45 mins"
+      }
+    },
+    {
+      "id": "62874",
+      "restaurantId": "62874",
+      "restaurantName": "LunchBox - Meals and Thalis",
+      "category": "Pastry",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/RX_THUMBNAIL/IMAGES/VENDOR/2024/10/16/bf1186a7-1eee-408a-b8f6-377dad43bb02_62874.jpg",
+      "areaName": "Kalkaji",
+      "locality": "Jagdamba Road",
+      "restaurantInfo": {
+        "name": "LunchBox - Meals and Thalis",
+        "cityName": "Delhi",
+        "cuisines": [
+          "Thalis",
+          "North Indian"
+        ],
+        "avgRating": "4.2",
+        "areaName": "Kalkaji",
+        "totalRatings": "12K+ ratings",
+        "costForTwoMessage": "₹200 for two",
+        "minMaxDeliveryTime": "55-65 mins"
+      }
+    },
+    {
+      "id": "975703",
+      "restaurantId": "975703",
+      "restaurantName": "Mithaas",
+      "category": "Pastry",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/88f7701655116657229655a2df488909",
+      "areaName": "Greenfields_FBD",
+      "locality": "Greenfields_FBD",
+      "restaurantInfo": {
+        "name": "Mithaas",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Bakery",
+          "Sweets"
+        ],
+        "avgRating": "4.2",
+        "areaName": "Greenfields_FBD",
+        "totalRatings": "2.9K+ ratings",
+        "costForTwoMessage": "₹250 for two",
+        "minMaxDeliveryTime": "40-45 mins"
+      }
+    },
+    {
+      "id": "275225",
+      "restaurantId": "275225",
+      "restaurantName": "Khana Khazana Restaurant",
+      "category": "Pastry",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/pmzboda3vinporwa5iex",
+      "areaName": "Tughlakabad",
+      "locality": "Tughlakabad Institutional Area",
+      "restaurantInfo": {
+        "name": "Khana Khazana Restaurant",
+        "cityName": "Delhi",
+        "cuisines": [
+          "Mughlai",
+          "North Indian"
+        ],
+        "avgRating": "4.3",
+        "areaName": "Tughlakabad",
+        "totalRatings": "3.9K+ ratings",
+        "costForTwoMessage": "₹200 for two",
+        "minMaxDeliveryTime": "50-60 mins"
+      }
+    },
+    {
+      "id": "853883",
+      "restaurantId": "853883",
+      "restaurantName": "Samosa Party",
+      "category": "Chole Bhature",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/RX_THUMBNAIL/IMAGES/VENDOR/2026/4/11/240006ae-c73d-4c1e-a910-2fd9e26bb2e0_853883.JPG",
+      "areaName": "Greater Kailash New",
+      "locality": "Sarita Vihar",
+      "restaurantInfo": {
+        "name": "Samosa Party",
+        "cityName": "Delhi",
+        "cuisines": [
+          "Fast Food",
+          "Snacks"
+        ],
+        "avgRating": "4.2",
+        "areaName": "Greater Kailash New",
+        "totalRatings": "905 ratings",
+        "costForTwoMessage": "₹150 for two",
+        "minMaxDeliveryTime": "40-45 mins"
+      }
+    },
+    {
+      "id": "958937",
+      "restaurantId": "958937",
+      "restaurantName": "36 Street",
+      "category": "Chole Bhature",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/RX_THUMBNAIL/IMAGES/VENDOR/2024/9/19/fdb232c9-4ed8-44b2-b706-154400dccbde_958937.JPG",
+      "areaName": "KALKAJI, South East",
+      "locality": "Tughlakabad Extension",
+      "restaurantInfo": {
+        "name": "36 Street",
+        "cityName": "Delhi",
+        "cuisines": [
+          "Fast Food"
+        ],
+        "avgRating": "4.0",
+        "areaName": "KALKAJI, South East",
+        "totalRatings": "351 ratings",
+        "costForTwoMessage": "₹250 for two",
+        "minMaxDeliveryTime": "45-50 mins"
+      }
+    },
+    {
+      "id": "680160",
+      "restaurantId": "680160",
+      "restaurantName": "Street Foods By Punjab Grill",
+      "category": "Chole Bhature",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/RX_THUMBNAIL/IMAGES/VENDOR/2025/4/28/6a2d27b7-8b62-48d6-aa04-ccf6770fa425_680160.jpg",
+      "areaName": "Jasola",
+      "locality": "Jasola Apollo Metro Station",
+      "restaurantInfo": {
+        "name": "Street Foods By Punjab Grill",
+        "cityName": "Delhi",
+        "cuisines": [
+          "Kebabs",
+          "Biryani"
+        ],
+        "avgRating": "4.0",
+        "areaName": "Jasola",
+        "totalRatings": "1.4K+ ratings",
+        "costForTwoMessage": "₹400 for two",
+        "minMaxDeliveryTime": "55-65 mins"
+      }
+    },
+    {
+      "id": "842420",
+      "restaurantId": "842420",
+      "restaurantName": "Cafe Quick Pick",
+      "category": "Gulab Jamun",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2024/3/7/ecf06a21-b503-478c-8646-19e1e1bcbaf5_eed32ff3-116e-4306-a3c5-4060984ecb4b",
+      "areaName": "Greenfields",
+      "locality": "Sec 35",
+      "restaurantInfo": {
+        "name": "Cafe Quick Pick",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Snacks",
+          "Fast Food"
+        ],
+        "avgRating": "4.3",
+        "areaName": "Greenfields",
+        "totalRatings": "89 ratings",
+        "costForTwoMessage": "₹220 for two",
+        "minMaxDeliveryTime": "45-50 mins"
+      }
+    },
+    {
+      "id": "929947",
+      "restaurantId": "929947",
+      "restaurantName": "Biryani Kebabs & More",
+      "category": "Gulab Jamun",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2024/7/30/e6d2148b-4d04-4a3b-9f51-90ec616257c7_5137ca01-76bd-4d12-abeb-17b7f16ed131.jpg",
+      "areaName": "Greenfields_FBD",
+      "locality": "Sec 35",
+      "restaurantInfo": {
+        "name": "Biryani Kebabs & More",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Biryani",
+          "Kebabs"
+        ],
+        "avgRating": "3.9",
+        "areaName": "Greenfields_FBD",
+        "totalRatings": "23 ratings",
+        "costForTwoMessage": "₹400 for two",
+        "minMaxDeliveryTime": "40-45 mins"
+      }
+    },
+    {
+      "id": "933186",
+      "restaurantId": "933186",
+      "restaurantName": "Pocketful Under 199",
+      "category": "Gulab Jamun",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2024/3/7/ecf06a21-b503-478c-8646-19e1e1bcbaf5_eed32ff3-116e-4306-a3c5-4060984ecb4b",
+      "areaName": "Greenfields_FBD",
+      "locality": "Sec 35",
+      "restaurantInfo": {
+        "name": "Pocketful Under 199",
+        "cityName": "Faridabad",
+        "cuisines": [
+          "Snacks",
+          "Burgers"
+        ],
+        "avgRating": "4.2",
+        "areaName": "Greenfields_FBD",
+        "totalRatings": "159 ratings",
+        "costForTwoMessage": "₹300 for two",
+        "minMaxDeliveryTime": "45-50 mins"
+      }
+    },
+    {
+      "id": "25180",
+      "restaurantId": "25180",
+      "restaurantName": "BTW",
+      "category": "Jalebi",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2025/9/29/18f7a039-3d39-4696-a0de-1f8a8cfa2785_2a11cc7e-0d04-4975-85e7-80a07621e53f.jpg",
+      "areaName": "Jasola",
+      "locality": "Jasola",
+      "restaurantInfo": {
+        "name": "BTW",
+        "cityName": "Delhi",
+        "cuisines": [
+          "Street Food",
+          "North Indian"
+        ],
+        "avgRating": "4.1",
+        "areaName": "Jasola",
+        "totalRatings": "36K+ ratings",
+        "costForTwoMessage": "₹300 for two",
+        "minMaxDeliveryTime": "55-65 mins"
+      }
+    }
+    ]
+}
