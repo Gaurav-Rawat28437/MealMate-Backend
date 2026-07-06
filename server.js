@@ -44,10 +44,11 @@ app.get("/foodItems", (req, res) => {
 });
 
 app.get("/restaurants", (req, res) => {
-  const { foodCategoryId, city, limit } = req.query;
+  const { foodCategoryId, city, limit, sort, minRating } = req.query;
 
   let filteredRestaurants = restaurants;
 
+  // filter by city
   if (city) {
     filteredRestaurants = filteredRestaurants.filter((restaurant) => {
       const restaurantCity = restaurant.restaurantInfo?.cityName?.toLowerCase();
@@ -55,12 +56,32 @@ app.get("/restaurants", (req, res) => {
     });
   }
 
+  // filter by food category
   if (foodCategoryId) {
     filteredRestaurants = filteredRestaurants.filter(
       (restaurant) => restaurant.foodCategoryId === foodCategoryId
     );
   }
 
+  // filter rating greater than or equal to minRating
+  if (minRating) {
+    filteredRestaurants = filteredRestaurants.filter((restaurant) => {
+      const rating = Number(restaurant.restaurantInfo?.avgRating || 0);
+      return rating >= Number(minRating);
+    });
+  }
+
+  // sort by rating high to low
+  if (sort === "rating") {
+    filteredRestaurants = [...filteredRestaurants].sort((a, b) => {
+      const ratingA = Number(a.restaurantInfo?.avgRating || 0);
+      const ratingB = Number(b.restaurantInfo?.avgRating || 0);
+
+      return ratingB - ratingA;
+    });
+  }
+
+  // limit data
   if (limit) {
     filteredRestaurants = filteredRestaurants.slice(0, Number(limit));
   }
