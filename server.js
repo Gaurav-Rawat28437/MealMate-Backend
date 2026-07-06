@@ -44,17 +44,28 @@ app.get("/foodItems", (req, res) => {
 });
 
 app.get("/restaurants", (req, res) => {
-  const { foodCategoryId } = req.query;
+  const { foodCategoryId, city, limit } = req.query;
 
-  if (foodCategoryId) {
-    const filteredRestaurants = restaurants.filter(
-      (item) => item.foodCategoryId === foodCategoryId
-    );
+  let filteredRestaurants = restaurants;
 
-    return res.json(filteredRestaurants);
+  if (city) {
+    filteredRestaurants = filteredRestaurants.filter((restaurant) => {
+      const restaurantCity = restaurant.restaurantInfo?.cityName?.toLowerCase();
+      return restaurantCity === city.toLowerCase();
+    });
   }
 
-  res.json(restaurants);
+  if (foodCategoryId) {
+    filteredRestaurants = filteredRestaurants.filter(
+      (restaurant) => restaurant.foodCategoryId === foodCategoryId
+    );
+  }
+
+  if (limit) {
+    filteredRestaurants = filteredRestaurants.slice(0, Number(limit));
+  }
+
+  res.json(filteredRestaurants);
 });
 
 app.get("/restaurants/:restaurantId", (req, res) => {
