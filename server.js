@@ -72,12 +72,22 @@ app.get("/restaurants", (req, res) => {
   }
 
   // sort by rating high to low
-  if (sort === "rating") {
+  if (sort === "highRating") {
     filteredRestaurants = [...filteredRestaurants].sort((a, b) => {
       const ratingA = Number(a.restaurantInfo?.avgRating || 0);
       const ratingB = Number(b.restaurantInfo?.avgRating || 0);
 
       return ratingB - ratingA;
+    });
+  }
+
+  // sort by rating low to high 
+  if (sort === "lowRating") {
+    filteredRestaurants = [...filteredRestaurants].sort((a, b) => {
+      const ratingA = Number(a.restaurantInfo?.avgRating || 0);
+      const ratingB = Number(b.restaurantInfo?.avgRating || 0);
+
+      return ratingA - ratingB;
     });
   }
 
