@@ -91,10 +91,23 @@ app.get("/restaurants", (req, res) => {
     });
   }
 
-  // limit data
-  if (limit) {
-    filteredRestaurants = filteredRestaurants.slice(0, Number(limit));
-  }
+  const totalRestaurants = filteredRestaurants.length;
+
+  if (page && limit) {
+    const pageNumber = Number(page);
+    const limitNumber = Number(limit);
+
+    const startIndex = (pageNumber - 1) * limitNumber;
+    const endIndex = startIndex + limitNumber;
+
+    const paginatedData = filteredRestaurants.slice(startIndex, endIndex);
+
+    return res.json({
+      data: paginatedData,
+      currentPage: pageNumber,
+      totalRestaurants,
+      hasMore: endIndex < totalRestaurants,
+    })}
 
   res.json(filteredRestaurants);
 });
