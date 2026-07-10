@@ -44,7 +44,7 @@ app.get("/foodItems", (req, res) => {
 });
 
 app.get("/restaurants", (req, res) => {
-  const { foodCategoryId, city, limit, sort, minRating } = req.query;
+  const { foodCategoryId, city, limit, sort, minRating, page } = req.query;
 
   let filteredRestaurants = restaurants;
 
