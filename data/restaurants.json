@@ -1,5 +1,5 @@
 {
-    "restaurants": [
+  "restaurants": [
     {
       "id": "26757",
       "restaurantId": "26757",
@@ -20,7 +20,10 @@
         "totalRatings": "3.1K+ ratings",
         "costForTwoMessage": "₹450 for two",
         "minMaxDeliveryTime": "40-50 mins"
-      }
+      },
+      "foodCategoryId": "750581",
+      "foodCategoryName": "North Indian",
+      "foodCollectionId": "83633"
     },
     {
       "id": "302692",
@@ -42,7 +45,10 @@
         "totalRatings": "1.4K+ ratings",
         "costForTwoMessage": "₹600 for two",
         "minMaxDeliveryTime": "40-50 mins"
-      }
+      },
+      "foodCategoryId": "750581",
+      "foodCategoryName": "North Indian",
+      "foodCollectionId": "83633"
     },
     {
       "id": "983943",
@@ -64,7 +70,10 @@
         "totalRatings": "741 ratings",
         "costForTwoMessage": "₹250 for two",
         "minMaxDeliveryTime": "35-40 mins"
-      }
+      },
+      "foodCategoryId": "750581",
+      "foodCategoryName": "North Indian",
+      "foodCollectionId": "83633"
     },
     {
       "id": "1174544",
@@ -86,7 +95,10 @@
         "totalRatings": "3 ratings",
         "costForTwoMessage": "₹200 for two",
         "minMaxDeliveryTime": "40-45 mins"
-      }
+      },
+      "foodCategoryId": "750581",
+      "foodCategoryName": "North Indian",
+      "foodCollectionId": "83633"
     },
     {
       "id": "821109",
@@ -108,7 +120,10 @@
         "totalRatings": "3.2K+ ratings",
         "costForTwoMessage": "₹350 for two",
         "minMaxDeliveryTime": "40-45 mins"
-      }
+      },
+      "foodCategoryId": "750581",
+      "foodCategoryName": "North Indian",
+      "foodCollectionId": "83633"
     },
     {
       "id": "124519",
@@ -130,7 +145,10 @@
         "totalRatings": "12K+ ratings",
         "costForTwoMessage": "₹200 for two",
         "minMaxDeliveryTime": "35-40 mins"
-      }
+      },
+      "foodCategoryId": "750581",
+      "foodCategoryName": "North Indian",
+      "foodCollectionId": "83633"
     },
     {
       "id": "991036",
@@ -152,7 +170,10 @@
         "totalRatings": "279 ratings",
         "costForTwoMessage": "₹250 for two",
         "minMaxDeliveryTime": "40-45 mins"
-      }
+      },
+      "foodCategoryId": "750581",
+      "foodCategoryName": "North Indian",
+      "foodCollectionId": "83633"
     },
     {
       "id": "586875",
@@ -174,7 +195,10 @@
         "totalRatings": "1.0K+ ratings",
         "costForTwoMessage": "₹300 for two",
         "minMaxDeliveryTime": "25-30 mins"
-      }
+      },
+      "foodCategoryId": "750581",
+      "foodCategoryName": "North Indian",
+      "foodCollectionId": "83633"
     },
     {
       "id": "605415",
@@ -196,7 +220,10 @@
         "totalRatings": "920 ratings",
         "costForTwoMessage": "₹500 for two",
         "minMaxDeliveryTime": "40-50 mins"
-      }
+      },
+      "foodCategoryId": "750581",
+      "foodCategoryName": "North Indian",
+      "foodCollectionId": "83633"
     },
     {
       "id": "540271",
@@ -218,7 +245,10 @@
         "totalRatings": "706 ratings",
         "costForTwoMessage": "₹500 for two",
         "minMaxDeliveryTime": "30-35 mins"
-      }
+      },
+      "foodCategoryId": "750579",
+      "foodCategoryName": "Pizzas",
+      "foodCollectionId": "83631"
     },
     {
       "id": "958332",
@@ -239,7 +269,10 @@
         "totalRatings": "215 ratings",
         "costForTwoMessage": "₹350 for two",
         "minMaxDeliveryTime": "40-45 mins"
-      }
+      },
+      "foodCategoryId": "750579",
+      "foodCategoryName": "Pizzas",
+      "foodCollectionId": "83631"
     },
     {
       "id": "338137",
@@ -261,7 +294,10 @@
         "totalRatings": "340 ratings",
         "costForTwoMessage": "₹200 for two",
         "minMaxDeliveryTime": "40-45 mins"
-      }
+      },
+      "foodCategoryId": "750579",
+      "foodCategoryName": "Pizzas",
+      "foodCollectionId": "83631"
     },
     {
       "id": "922744",
@@ -283,7 +319,10 @@
         "totalRatings": "2.0K+ ratings",
         "costForTwoMessage": "₹300 for two",
         "minMaxDeliveryTime": "40-45 mins"
-      }
+      },
+      "foodCategoryId": "750579",
+      "foodCategoryName": "Pizzas",
+      "foodCollectionId": "83631"
     },
     {
       "id": "1123286",
@@ -304,7 +343,10 @@
         "totalRatings": "Too Few Ratings",
         "costForTwoMessage": "₹200 for two",
         "minMaxDeliveryTime": "35-40 mins"
-      }
+      },
+      "foodCategoryId": "750579",
+      "foodCategoryName": "Pizzas",
+      "foodCollectionId": "83631"
     },
     {
       "id": "885882",
@@ -326,7 +368,10 @@
         "totalRatings": "1.0K+ ratings",
         "costForTwoMessage": "₹299 for two",
         "minMaxDeliveryTime": "30-40 mins"
-      }
+      },
+      "foodCategoryId": "750579",
+      "foodCategoryName": "Pizzas",
+      "foodCollectionId": "83631"
     },
     {
       "id": "131102",
@@ -347,7 +392,10 @@
         "totalRatings": "4.2K+ ratings",
         "costForTwoMessage": "₹200 for two",
         "minMaxDeliveryTime": "35-40 mins"
-      }
+      },
+      "foodCategoryId": "750579",
+      "foodCategoryName": "Pizzas",
+      "foodCollectionId": "83631"
     },
     {
       "id": "1246994",
@@ -369,7 +417,10 @@
         "totalRatings": "179 ratings",
         "costForTwoMessage": "₹400 for two",
         "minMaxDeliveryTime": "45-50 mins"
-      }
+      },
+      "foodCategoryId": "750579",
+      "foodCategoryName": "Pizzas",
+      "foodCollectionId": "83631"
     },
     {
       "id": "1290163",
@@ -391,7 +442,10 @@
         "totalRatings": "128 ratings",
         "costForTwoMessage": "₹200 for two",
         "minMaxDeliveryTime": "40-45 mins"
-      }
+      },
+      "foodCategoryId": "750579",
+      "foodCategoryName": "Pizzas",
+      "foodCollectionId": "83631"
     },
     {
       "id": "1035531",
@@ -413,7 +467,10 @@
         "totalRatings": "981 ratings",
         "costForTwoMessage": "₹250 for two",
         "minMaxDeliveryTime": "25-30 mins"
-      }
+      },
+      "foodCategoryId": "749868",
+      "foodCategoryName": "Cakes",
+      "foodCollectionId": "83655"
     },
     {
       "id": "802112",
@@ -435,7 +492,10 @@
         "totalRatings": "284 ratings",
         "costForTwoMessage": "₹250 for two",
         "minMaxDeliveryTime": "40-45 mins"
-      }
+      },
+      "foodCategoryId": "749868",
+      "foodCategoryName": "Cakes",
+      "foodCollectionId": "83655"
     },
     {
       "id": "1035556",
@@ -457,7 +517,10 @@
         "totalRatings": "393 ratings",
         "costForTwoMessage": "₹600 for two",
         "minMaxDeliveryTime": "30-35 mins"
-      }
+      },
+      "foodCategoryId": "749868",
+      "foodCategoryName": "Cakes",
+      "foodCollectionId": "83655"
     },
     {
       "id": "738769",
@@ -479,7 +542,10 @@
         "totalRatings": "911 ratings",
         "costForTwoMessage": "₹500 for two",
         "minMaxDeliveryTime": "30-35 mins"
-      }
+      },
+      "foodCategoryId": "749868",
+      "foodCategoryName": "Cakes",
+      "foodCollectionId": "83655"
     },
     {
       "id": "391162",
@@ -501,7 +567,10 @@
         "totalRatings": "670 ratings",
         "costForTwoMessage": "₹250 for two",
         "minMaxDeliveryTime": "40-50 mins"
-      }
+      },
+      "foodCategoryId": "749868",
+      "foodCategoryName": "Cakes",
+      "foodCollectionId": "83655"
     },
     {
       "id": "651917",
@@ -523,7 +592,10 @@
         "totalRatings": "1.3K+ ratings",
         "costForTwoMessage": "₹299 for two",
         "minMaxDeliveryTime": "40-45 mins"
-      }
+      },
+      "foodCategoryId": "749868",
+      "foodCategoryName": "Cakes",
+      "foodCollectionId": "83655"
     },
     {
       "id": "60345",
@@ -545,7 +617,10 @@
         "totalRatings": "3.6K+ ratings",
         "costForTwoMessage": "₹350 for two",
         "minMaxDeliveryTime": "640-650 mins"
-      }
+      },
+      "foodCategoryId": "749868",
+      "foodCategoryName": "Cakes",
+      "foodCollectionId": "83655"
     },
     {
       "id": "462153",
@@ -567,7 +642,10 @@
         "totalRatings": "4.6K+ ratings",
         "costForTwoMessage": "₹300 for two",
         "minMaxDeliveryTime": "30-35 mins"
-      }
+      },
+      "foodCategoryId": "749868",
+      "foodCategoryName": "Cakes",
+      "foodCollectionId": "83655"
     },
     {
       "id": "926318",
@@ -589,7 +667,10 @@
         "totalRatings": "61 ratings",
         "costForTwoMessage": "₹200 for two",
         "minMaxDeliveryTime": "35-45 mins"
-      }
+      },
+      "foodCategoryId": "749868",
+      "foodCategoryName": "Cakes",
+      "foodCollectionId": "83655"
     },
     {
       "id": "367815",
@@ -611,7 +692,10 @@
         "totalRatings": "465 ratings",
         "costForTwoMessage": "₹120 for two",
         "minMaxDeliveryTime": "40-45 mins"
-      }
+      },
+      "foodCategoryId": "750107",
+      "foodCategoryName": "Dessert",
+      "foodCollectionId": "83661"
     },
     {
       "id": "1051334",
@@ -633,7 +717,10 @@
         "totalRatings": "18 ratings",
         "costForTwoMessage": "₹150 for two",
         "minMaxDeliveryTime": "25-30 mins"
-      }
+      },
+      "foodCategoryId": "750107",
+      "foodCategoryName": "Dessert",
+      "foodCollectionId": "83661"
     },
     {
       "id": "365826",
@@ -655,7 +742,10 @@
         "totalRatings": "3.4K+ ratings",
         "costForTwoMessage": "₹120 for two",
         "minMaxDeliveryTime": "35-40 mins"
-      }
+      },
+      "foodCategoryId": "750107",
+      "foodCategoryName": "Dessert",
+      "foodCollectionId": "83661"
     },
     {
       "id": "808658",
@@ -677,7 +767,10 @@
         "totalRatings": "498 ratings",
         "costForTwoMessage": "₹300 for two",
         "minMaxDeliveryTime": "40-45 mins"
-      }
+      },
+      "foodCategoryId": "750107",
+      "foodCategoryName": "Dessert",
+      "foodCollectionId": "83661"
     },
     {
       "id": "1306515",
@@ -699,7 +792,10 @@
         "totalRatings": "221 ratings",
         "costForTwoMessage": "₹350 for two",
         "minMaxDeliveryTime": "40-45 mins"
-      }
+      },
+      "foodCategoryId": "750589",
+      "foodCategoryName": "Burgers",
+      "foodCollectionId": "83637"
     },
     {
       "id": "1035494",
@@ -720,7 +816,10 @@
         "totalRatings": "259 ratings",
         "costForTwoMessage": "₹120 for two",
         "minMaxDeliveryTime": "25-30 mins"
-      }
+      },
+      "foodCategoryId": "750589",
+      "foodCategoryName": "Burgers",
+      "foodCollectionId": "83637"
     },
     {
       "id": "45177",
@@ -742,7 +841,10 @@
         "totalRatings": "27K+ ratings",
         "costForTwoMessage": "₹350 for two",
         "minMaxDeliveryTime": "40-45 mins"
-      }
+      },
+      "foodCategoryId": "750589",
+      "foodCategoryName": "Burgers",
+      "foodCollectionId": "83637"
     },
     {
       "id": "1012136",
@@ -764,7 +866,10 @@
         "totalRatings": "1.0K+ ratings",
         "costForTwoMessage": "₹400 for two",
         "minMaxDeliveryTime": "40-45 mins"
-      }
+      },
+      "foodCategoryId": "750589",
+      "foodCategoryName": "Burgers",
+      "foodCollectionId": "83637"
     },
     {
       "id": "958097",
@@ -786,7 +891,10 @@
         "totalRatings": "2.0K+ ratings",
         "costForTwoMessage": "₹300 for two",
         "minMaxDeliveryTime": "30-40 mins"
-      }
+      },
+      "foodCategoryId": "750589",
+      "foodCategoryName": "Burgers",
+      "foodCollectionId": "83637"
     },
     {
       "id": "1134336",
@@ -808,7 +916,10 @@
         "totalRatings": "700 ratings",
         "costForTwoMessage": "₹299 for two",
         "minMaxDeliveryTime": "45-50 mins"
-      }
+      },
+      "foodCategoryId": "750589",
+      "foodCategoryName": "Burgers",
+      "foodCollectionId": "83637"
     },
     {
       "id": "524375",
@@ -830,7 +941,10 @@
         "totalRatings": "1.8K+ ratings",
         "costForTwoMessage": "₹150 for two",
         "minMaxDeliveryTime": "720-725 mins"
-      }
+      },
+      "foodCategoryId": "750589",
+      "foodCategoryName": "Burgers",
+      "foodCollectionId": "83637"
     },
     {
       "id": "1064560",
@@ -852,7 +966,10 @@
         "totalRatings": "235 ratings",
         "costForTwoMessage": "₹400 for two",
         "minMaxDeliveryTime": "40-50 mins"
-      }
+      },
+      "foodCategoryId": "750589",
+      "foodCategoryName": "Burgers",
+      "foodCollectionId": "83637"
     },
     {
       "id": "523809",
@@ -874,7 +991,10 @@
         "totalRatings": "2.1K+ ratings",
         "costForTwoMessage": "₹250 for two",
         "minMaxDeliveryTime": "25-30 mins"
-      }
+      },
+      "foodCategoryId": "750589",
+      "foodCategoryName": "Burgers",
+      "foodCollectionId": "83637"
     },
     {
       "id": "1310137",
@@ -896,7 +1016,10 @@
         "totalRatings": "179 ratings",
         "costForTwoMessage": "₹600 for two",
         "minMaxDeliveryTime": "30-35 mins"
-      }
+      },
+      "foodCategoryId": "750591",
+      "foodCategoryName": "Biryani",
+      "foodCollectionId": "83639"
     },
     {
       "id": "1366350",
@@ -918,7 +1041,10 @@
         "totalRatings": "76 ratings",
         "costForTwoMessage": "₹200 for two",
         "minMaxDeliveryTime": "35-40 mins"
-      }
+      },
+      "foodCategoryId": "750591",
+      "foodCategoryName": "Biryani",
+      "foodCollectionId": "83639"
     },
     {
       "id": "1246999",
@@ -940,7 +1066,10 @@
         "totalRatings": "239 ratings",
         "costForTwoMessage": "₹400 for two",
         "minMaxDeliveryTime": "45-50 mins"
-      }
+      },
+      "foodCategoryId": "750591",
+      "foodCategoryName": "Biryani",
+      "foodCollectionId": "83639"
     },
     {
       "id": "882160",
@@ -962,7 +1091,10 @@
         "totalRatings": "1.8K+ ratings",
         "costForTwoMessage": "₹350 for two",
         "minMaxDeliveryTime": "40-45 mins"
-      }
+      },
+      "foodCategoryId": "750591",
+      "foodCategoryName": "Biryani",
+      "foodCollectionId": "83639"
     },
     {
       "id": "1373720",
@@ -984,7 +1116,10 @@
         "totalRatings": "7 ratings",
         "costForTwoMessage": "₹300 for two",
         "minMaxDeliveryTime": "30-35 mins"
-      }
+      },
+      "foodCategoryId": "750591",
+      "foodCategoryName": "Biryani",
+      "foodCollectionId": "83639"
     },
     {
       "id": "49243",
@@ -1006,7 +1141,10 @@
         "totalRatings": "5.3K+ ratings",
         "costForTwoMessage": "₹500 for two",
         "minMaxDeliveryTime": "45-50 mins"
-      }
+      },
+      "foodCategoryId": "750591",
+      "foodCategoryName": "Biryani",
+      "foodCollectionId": "83639"
     },
     {
       "id": "793291",
@@ -1027,7 +1165,10 @@
         "totalRatings": "344 ratings",
         "costForTwoMessage": "₹300 for two",
         "minMaxDeliveryTime": "30-35 mins"
-      }
+      },
+      "foodCategoryId": "750591",
+      "foodCategoryName": "Biryani",
+      "foodCollectionId": "83639"
     },
     {
       "id": "775707",
@@ -1049,7 +1190,10 @@
         "totalRatings": "1.4K+ ratings",
         "costForTwoMessage": "₹250 for two",
         "minMaxDeliveryTime": "30-40 mins"
-      }
+      },
+      "foodCategoryId": "749768",
+      "foodCategoryName": "Momos",
+      "foodCollectionId": "80461"
     },
     {
       "id": "655871",
@@ -1071,7 +1215,10 @@
         "totalRatings": "1.1K+ ratings",
         "costForTwoMessage": "₹250 for two",
         "minMaxDeliveryTime": "30-35 mins"
-      }
+      },
+      "foodCategoryId": "749768",
+      "foodCategoryName": "Momos",
+      "foodCollectionId": "80461"
     },
     {
       "id": "855113",
@@ -1093,7 +1240,10 @@
         "totalRatings": "485 ratings",
         "costForTwoMessage": "₹250 for two",
         "minMaxDeliveryTime": "30-40 mins"
-      }
+      },
+      "foodCategoryId": "749768",
+      "foodCategoryName": "Momos",
+      "foodCollectionId": "80461"
     },
     {
       "id": "636418",
@@ -1115,7 +1265,10 @@
         "totalRatings": "38 ratings",
         "costForTwoMessage": "₹150 for two",
         "minMaxDeliveryTime": "45-50 mins"
-      }
+      },
+      "foodCategoryId": "749768",
+      "foodCategoryName": "Momos",
+      "foodCollectionId": "80461"
     },
     {
       "id": "1074605",
@@ -1136,7 +1289,10 @@
         "totalRatings": "47 ratings",
         "costForTwoMessage": "₹350 for two",
         "minMaxDeliveryTime": "35-40 mins"
-      }
+      },
+      "foodCategoryId": "749768",
+      "foodCategoryName": "Momos",
+      "foodCollectionId": "80461"
     },
     {
       "id": "1008131",
@@ -1158,7 +1314,10 @@
         "totalRatings": "68 ratings",
         "costForTwoMessage": "₹250 for two",
         "minMaxDeliveryTime": "40-45 mins"
-      }
+      },
+      "foodCategoryId": "749768",
+      "foodCategoryName": "Momos",
+      "foodCollectionId": "80461"
     },
     {
       "id": "126518",
@@ -1180,7 +1339,10 @@
         "totalRatings": "2.5K+ ratings",
         "costForTwoMessage": "₹200 for two",
         "minMaxDeliveryTime": "35-40 mins"
-      }
+      },
+      "foodCategoryId": "749768",
+      "foodCategoryName": "Momos",
+      "foodCollectionId": "80461"
     },
     {
       "id": "996761",
@@ -1202,7 +1364,10 @@
         "totalRatings": "674 ratings",
         "costForTwoMessage": "₹350 for two",
         "minMaxDeliveryTime": "35-40 mins"
-      }
+      },
+      "foodCategoryId": "750222",
+      "foodCategoryName": "Rolls",
+      "foodCollectionId": "83669"
     },
     {
       "id": "654091",
@@ -1224,7 +1389,10 @@
         "totalRatings": "1.2K+ ratings",
         "costForTwoMessage": "₹300 for two",
         "minMaxDeliveryTime": "40-45 mins"
-      }
+      },
+      "foodCategoryId": "750222",
+      "foodCategoryName": "Rolls",
+      "foodCollectionId": "83669"
     },
     {
       "id": "593269",
@@ -1246,7 +1414,10 @@
         "totalRatings": "778 ratings",
         "costForTwoMessage": "₹280 for two",
         "minMaxDeliveryTime": "45-55 mins"
-      }
+      },
+      "foodCategoryId": "750222",
+      "foodCategoryName": "Rolls",
+      "foodCollectionId": "83669"
     },
     {
       "id": "1326289",
@@ -1268,7 +1439,10 @@
         "totalRatings": "3 ratings",
         "costForTwoMessage": "₹299 for two",
         "minMaxDeliveryTime": "25-30 mins"
-      }
+      },
+      "foodCategoryId": "750585",
+      "foodCategoryName": "South Indian",
+      "foodCollectionId": "83634"
     },
     {
       "id": "571515",
@@ -1290,7 +1464,10 @@
         "totalRatings": "104 ratings",
         "costForTwoMessage": "₹450 for two",
         "minMaxDeliveryTime": "20-25 mins"
-      }
+      },
+      "foodCategoryId": "750585",
+      "foodCategoryName": "South Indian",
+      "foodCollectionId": "83634"
     },
     {
       "id": "1320426",
@@ -1312,7 +1489,10 @@
         "totalRatings": "116 ratings",
         "costForTwoMessage": "₹450 for two",
         "minMaxDeliveryTime": "40-50 mins"
-      }
+      },
+      "foodCategoryId": "750585",
+      "foodCategoryName": "South Indian",
+      "foodCollectionId": "83634"
     },
     {
       "id": "347045",
@@ -1334,7 +1514,10 @@
         "totalRatings": "1.6K+ ratings",
         "costForTwoMessage": "₹400 for two",
         "minMaxDeliveryTime": "40-45 mins"
-      }
+      },
+      "foodCategoryId": "750585",
+      "foodCategoryName": "South Indian",
+      "foodCollectionId": "83634"
     },
     {
       "id": "42026",
@@ -1356,7 +1539,10 @@
         "totalRatings": "4.4K+ ratings",
         "costForTwoMessage": "₹300 for two",
         "minMaxDeliveryTime": "764-769 mins"
-      }
+      },
+      "foodCategoryId": "750585",
+      "foodCategoryName": "South Indian",
+      "foodCollectionId": "83634"
     },
     {
       "id": "924731",
@@ -1378,7 +1564,10 @@
         "totalRatings": "292 ratings",
         "costForTwoMessage": "₹500 for two",
         "minMaxDeliveryTime": "35-40 mins"
-      }
+      },
+      "foodCategoryId": "750585",
+      "foodCategoryName": "South Indian",
+      "foodCollectionId": "83634"
     },
     {
       "id": "572126",
@@ -1400,7 +1589,10 @@
         "totalRatings": "339 ratings",
         "costForTwoMessage": "₹200 for two",
         "minMaxDeliveryTime": "30-35 mins"
-      }
+      },
+      "foodCategoryId": "750587",
+      "foodCategoryName": "Chinese",
+      "foodCollectionId": "83636"
     },
     {
       "id": "655870",
@@ -1422,7 +1614,10 @@
         "totalRatings": "1.6K+ ratings",
         "costForTwoMessage": "₹250 for two",
         "minMaxDeliveryTime": "30-35 mins"
-      }
+      },
+      "foodCategoryId": "750587",
+      "foodCategoryName": "Chinese",
+      "foodCollectionId": "83636"
     },
     {
       "id": "826426",
@@ -1444,7 +1639,10 @@
         "totalRatings": "926 ratings",
         "costForTwoMessage": "₹1000 for two",
         "minMaxDeliveryTime": "35-40 mins"
-      }
+      },
+      "foodCategoryId": "750587",
+      "foodCategoryName": "Chinese",
+      "foodCollectionId": "83636"
     },
     {
       "id": "1061461",
@@ -1465,7 +1663,10 @@
         "totalRatings": "35 ratings",
         "costForTwoMessage": "₹250 for two",
         "minMaxDeliveryTime": "25-30 mins"
-      }
+      },
+      "foodCategoryId": "750596",
+      "foodCategoryName": "Ice Cream",
+      "foodCollectionId": "83640"
     },
     {
       "id": "1256640",
@@ -1487,7 +1688,10 @@
         "totalRatings": "7 ratings",
         "costForTwoMessage": "₹300 for two",
         "minMaxDeliveryTime": "35-40 mins"
-      }
+      },
+      "foodCategoryId": "750596",
+      "foodCategoryName": "Ice Cream",
+      "foodCollectionId": "83640"
     },
     {
       "id": "1174561",
@@ -1509,7 +1713,10 @@
         "totalRatings": "168 ratings",
         "costForTwoMessage": "₹499 for two",
         "minMaxDeliveryTime": "30-35 mins"
-      }
+      },
+      "foodCategoryId": "750596",
+      "foodCategoryName": "Ice Cream",
+      "foodCollectionId": "83640"
     },
     {
       "id": "1175181",
@@ -1531,7 +1738,10 @@
         "totalRatings": "151 ratings",
         "costForTwoMessage": "₹300 for two",
         "minMaxDeliveryTime": "40-45 mins"
-      }
+      },
+      "foodCategoryId": "750596",
+      "foodCategoryName": "Ice Cream",
+      "foodCollectionId": "83640"
     },
     {
       "id": "777165",
@@ -1553,7 +1763,10 @@
         "totalRatings": "241 ratings",
         "costForTwoMessage": "₹150 for two",
         "minMaxDeliveryTime": "40-45 mins"
-      }
+      },
+      "foodCategoryId": "750596",
+      "foodCategoryName": "Ice Cream",
+      "foodCollectionId": "83640"
     },
     {
       "id": "687142",
@@ -1575,7 +1788,10 @@
         "totalRatings": "495 ratings",
         "costForTwoMessage": "₹600 for two",
         "minMaxDeliveryTime": "40-45 mins"
-      }
+      },
+      "foodCategoryId": "750596",
+      "foodCategoryName": "Ice Cream",
+      "foodCollectionId": "83640"
     },
     {
       "id": "711892",
@@ -1596,7 +1812,10 @@
         "totalRatings": "21 ratings",
         "costForTwoMessage": "₹350 for two",
         "minMaxDeliveryTime": "50-60 mins"
-      }
+      },
+      "foodCategoryId": "750131",
+      "foodCategoryName": "Dosa",
+      "foodCollectionId": "80424"
     },
     {
       "id": "923530",
@@ -1618,7 +1837,10 @@
         "totalRatings": "383 ratings",
         "costForTwoMessage": "₹200 for two",
         "minMaxDeliveryTime": "25-30 mins"
-      }
+      },
+      "foodCategoryId": "750131",
+      "foodCategoryName": "Dosa",
+      "foodCollectionId": "80424"
     },
     {
       "id": "896617",
@@ -1639,7 +1861,10 @@
         "totalRatings": "2.0K+ ratings",
         "costForTwoMessage": "₹500 for two",
         "minMaxDeliveryTime": "50-60 mins"
-      }
+      },
+      "foodCategoryId": "750131",
+      "foodCategoryName": "Dosa",
+      "foodCollectionId": "80424"
     },
     {
       "id": "969926",
@@ -1661,7 +1886,10 @@
         "totalRatings": "400 ratings",
         "costForTwoMessage": "₹400 for two",
         "minMaxDeliveryTime": "45-50 mins"
-      }
+      },
+      "foodCategoryId": "750131",
+      "foodCategoryName": "Dosa",
+      "foodCollectionId": "80424"
     },
     {
       "id": "162241",
@@ -1683,7 +1911,10 @@
         "totalRatings": "1.0K+ ratings",
         "costForTwoMessage": "₹400 for two",
         "minMaxDeliveryTime": "40-50 mins"
-      }
+      },
+      "foodCategoryId": "750131",
+      "foodCategoryName": "Dosa",
+      "foodCollectionId": "80424"
     },
     {
       "id": "451982",
@@ -1705,7 +1936,10 @@
         "totalRatings": "53 ratings",
         "costForTwoMessage": "₹400 for two",
         "minMaxDeliveryTime": "45-50 mins"
-      }
+      },
+      "foodCategoryId": "750131",
+      "foodCategoryName": "Dosa",
+      "foodCollectionId": "80424"
     },
     {
       "id": "395841",
@@ -1726,7 +1960,10 @@
         "totalRatings": "28 ratings",
         "costForTwoMessage": "₹250 for two",
         "minMaxDeliveryTime": "45-50 mins"
-      }
+      },
+      "foodCategoryId": "750131",
+      "foodCategoryName": "Dosa",
+      "foodCollectionId": "80424"
     },
     {
       "id": "242000",
@@ -1748,7 +1985,10 @@
         "totalRatings": "4.5K+ ratings",
         "costForTwoMessage": "₹150 for two",
         "minMaxDeliveryTime": "40-45 mins"
-      }
+      },
+      "foodCategoryId": "750201",
+      "foodCategoryName": "Paratha",
+      "foodCollectionId": "80475"
     },
     {
       "id": "27539",
@@ -1769,7 +2009,10 @@
         "totalRatings": "387 ratings",
         "costForTwoMessage": "₹1000 for two",
         "minMaxDeliveryTime": "35-40 mins"
-      }
+      },
+      "foodCategoryId": "750201",
+      "foodCategoryName": "Paratha",
+      "foodCollectionId": "80475"
     },
     {
       "id": "1008128",
@@ -1791,7 +2034,10 @@
         "totalRatings": "150 ratings",
         "costForTwoMessage": "₹499 for two",
         "minMaxDeliveryTime": "35-45 mins"
-      }
+      },
+      "foodCategoryId": "750201",
+      "foodCategoryName": "Paratha",
+      "foodCollectionId": "80475"
     },
     {
       "id": "167097",
@@ -1812,7 +2058,10 @@
         "totalRatings": "2.6K+ ratings",
         "costForTwoMessage": "₹200 for two",
         "minMaxDeliveryTime": "30-40 mins"
-      }
+      },
+      "foodCategoryId": "750201",
+      "foodCategoryName": "Paratha",
+      "foodCollectionId": "80475"
     },
     {
       "id": "509815",
@@ -1834,7 +2083,10 @@
         "totalRatings": "180 ratings",
         "costForTwoMessage": "₹700 for two",
         "minMaxDeliveryTime": "20-25 mins"
-      }
+      },
+      "foodCategoryId": "750201",
+      "foodCategoryName": "Paratha",
+      "foodCollectionId": "80475"
     },
     {
       "id": "325116",
@@ -1856,7 +2108,10 @@
         "totalRatings": "694 ratings",
         "costForTwoMessage": "₹250 for two",
         "minMaxDeliveryTime": "35-40 mins"
-      }
+      },
+      "foodCategoryId": "750201",
+      "foodCategoryName": "Paratha",
+      "foodCollectionId": "80475"
     },
     {
       "id": "420384",
@@ -1877,7 +2132,10 @@
         "totalRatings": "664 ratings",
         "costForTwoMessage": "₹200 for two",
         "minMaxDeliveryTime": "40-50 mins"
-      }
+      },
+      "foodCategoryId": "750201",
+      "foodCategoryName": "Paratha",
+      "foodCollectionId": "80475"
     },
     {
       "id": "301752",
@@ -1898,7 +2156,10 @@
         "totalRatings": "5 ratings",
         "costForTwoMessage": "₹200 for two",
         "minMaxDeliveryTime": "30-35 mins"
-      }
+      },
+      "foodCategoryId": "749772",
+      "foodCategoryName": "Noodles",
+      "foodCollectionId": "80463"
     },
     {
       "id": "855489",
@@ -1920,7 +2181,10 @@
         "totalRatings": "59 ratings",
         "costForTwoMessage": "₹250 for two",
         "minMaxDeliveryTime": "45-50 mins"
-      }
+      },
+      "foodCategoryId": "749772",
+      "foodCategoryName": "Noodles",
+      "foodCollectionId": "80463"
     },
     {
       "id": "28289",
@@ -1942,7 +2206,10 @@
         "totalRatings": "6.7K+ ratings",
         "costForTwoMessage": "₹200 for two",
         "minMaxDeliveryTime": "40-50 mins"
-      }
+      },
+      "foodCategoryId": "750260",
+      "foodCategoryName": "Rasmalai",
+      "foodCollectionId": "80390"
     },
     {
       "id": "63077",
@@ -1964,7 +2231,10 @@
         "totalRatings": "2.9K+ ratings",
         "costForTwoMessage": "₹300 for two",
         "minMaxDeliveryTime": "45-55 mins"
-      }
+      },
+      "foodCategoryId": "750260",
+      "foodCategoryName": "Rasmalai",
+      "foodCollectionId": "80390"
     },
     {
       "id": "1007762",
@@ -1986,7 +2256,10 @@
         "totalRatings": "2.1K+ ratings",
         "costForTwoMessage": "₹350 for two",
         "minMaxDeliveryTime": "45-55 mins"
-      }
+      },
+      "foodCategoryId": "750260",
+      "foodCategoryName": "Rasmalai",
+      "foodCollectionId": "80390"
     },
     {
       "id": "659240",
@@ -2008,7 +2281,10 @@
         "totalRatings": "873 ratings",
         "costForTwoMessage": "₹400 for two",
         "minMaxDeliveryTime": "50-60 mins"
-      }
+      },
+      "foodCategoryId": "750260",
+      "foodCategoryName": "Rasmalai",
+      "foodCollectionId": "80390"
     },
     {
       "id": "15844",
@@ -2030,7 +2306,10 @@
         "totalRatings": "20K+ ratings",
         "costForTwoMessage": "₹200 for two",
         "minMaxDeliveryTime": "50-60 mins"
-      }
+      },
+      "foodCategoryId": "750260",
+      "foodCategoryName": "Rasmalai",
+      "foodCollectionId": "80390"
     },
     {
       "id": "342623",
@@ -2052,7 +2331,10 @@
         "totalRatings": "5.8K+ ratings",
         "costForTwoMessage": "₹400 for two",
         "minMaxDeliveryTime": "40-45 mins"
-      }
+      },
+      "foodCategoryId": "750260",
+      "foodCategoryName": "Rasmalai",
+      "foodCollectionId": "80390"
     },
     {
       "id": "156168",
@@ -2074,7 +2356,10 @@
         "totalRatings": "3.2K+ ratings",
         "costForTwoMessage": "₹400 for two",
         "minMaxDeliveryTime": "50-60 mins"
-      }
+      },
+      "foodCategoryId": "750260",
+      "foodCategoryName": "Rasmalai",
+      "foodCollectionId": "80390"
     },
     {
       "id": "959660",
@@ -2096,7 +2381,10 @@
         "totalRatings": "18 ratings",
         "costForTwoMessage": "₹270 for two",
         "minMaxDeliveryTime": "40-45 mins"
-      }
+      },
+      "foodCategoryId": "750206",
+      "foodCategoryName": "Pasta",
+      "foodCollectionId": "80479"
     },
     {
       "id": "736174",
@@ -2118,7 +2406,10 @@
         "totalRatings": "274 ratings",
         "costForTwoMessage": "₹300 for two",
         "minMaxDeliveryTime": "40-45 mins"
-      }
+      },
+      "foodCategoryId": "750206",
+      "foodCategoryName": "Pasta",
+      "foodCollectionId": "80479"
     },
     {
       "id": "123107",
@@ -2140,7 +2431,10 @@
         "totalRatings": "209 ratings",
         "costForTwoMessage": "₹500 for two",
         "minMaxDeliveryTime": "45-50 mins"
-      }
+      },
+      "foodCategoryId": "750206",
+      "foodCategoryName": "Pasta",
+      "foodCollectionId": "80479"
     },
     {
       "id": "145714",
@@ -2162,7 +2456,10 @@
         "totalRatings": "289 ratings",
         "costForTwoMessage": "₹200 for two",
         "minMaxDeliveryTime": "30-35 mins"
-      }
+      },
+      "foodCategoryId": "750206",
+      "foodCategoryName": "Pasta",
+      "foodCollectionId": "80479"
     },
     {
       "id": "1025803",
@@ -2184,7 +2481,10 @@
         "totalRatings": "2.7K+ ratings",
         "costForTwoMessage": "₹399 for two",
         "minMaxDeliveryTime": "35-40 mins"
-      }
+      },
+      "foodCategoryId": "750206",
+      "foodCategoryName": "Pasta",
+      "foodCollectionId": "80479"
     },
     {
       "id": "421451",
@@ -2206,7 +2506,10 @@
         "totalRatings": "Too Few Ratings",
         "costForTwoMessage": "₹800 for two",
         "minMaxDeliveryTime": "40-45 mins"
-      }
+      },
+      "foodCategoryId": "750206",
+      "foodCategoryName": "Pasta",
+      "foodCollectionId": "80479"
     },
     {
       "id": "583815",
@@ -2228,7 +2531,10 @@
         "totalRatings": "674 ratings",
         "costForTwoMessage": "₹350 for two",
         "minMaxDeliveryTime": "45-50 mins"
-      }
+      },
+      "foodCategoryId": "750208",
+      "foodCategoryName": "Pastry",
+      "foodCollectionId": "80355"
     },
     {
       "id": "758333",
@@ -2250,7 +2556,10 @@
         "totalRatings": "9.9K+ ratings",
         "costForTwoMessage": "₹300 for two",
         "minMaxDeliveryTime": "40-45 mins"
-      }
+      },
+      "foodCategoryId": "750208",
+      "foodCategoryName": "Pastry",
+      "foodCollectionId": "80355"
     },
     {
       "id": "62874",
@@ -2272,7 +2581,10 @@
         "totalRatings": "12K+ ratings",
         "costForTwoMessage": "₹200 for two",
         "minMaxDeliveryTime": "55-65 mins"
-      }
+      },
+      "foodCategoryId": "750208",
+      "foodCategoryName": "Pastry",
+      "foodCollectionId": "80355"
     },
     {
       "id": "975703",
@@ -2294,7 +2606,10 @@
         "totalRatings": "2.9K+ ratings",
         "costForTwoMessage": "₹250 for two",
         "minMaxDeliveryTime": "40-45 mins"
-      }
+      },
+      "foodCategoryId": "750208",
+      "foodCategoryName": "Pastry",
+      "foodCollectionId": "80355"
     },
     {
       "id": "275225",
@@ -2316,7 +2631,10 @@
         "totalRatings": "3.9K+ ratings",
         "costForTwoMessage": "₹200 for two",
         "minMaxDeliveryTime": "50-60 mins"
-      }
+      },
+      "foodCategoryId": "750208",
+      "foodCategoryName": "Pastry",
+      "foodCollectionId": "80355"
     },
     {
       "id": "853883",
@@ -2338,7 +2656,10 @@
         "totalRatings": "905 ratings",
         "costForTwoMessage": "₹150 for two",
         "minMaxDeliveryTime": "40-45 mins"
-      }
+      },
+      "foodCategoryId": "749876",
+      "foodCategoryName": "Chole Bhature",
+      "foodCollectionId": "80382"
     },
     {
       "id": "958937",
@@ -2359,7 +2680,10 @@
         "totalRatings": "351 ratings",
         "costForTwoMessage": "₹250 for two",
         "minMaxDeliveryTime": "45-50 mins"
-      }
+      },
+      "foodCategoryId": "749876",
+      "foodCategoryName": "Chole Bhature",
+      "foodCollectionId": "80382"
     },
     {
       "id": "680160",
@@ -2381,7 +2705,10 @@
         "totalRatings": "1.4K+ ratings",
         "costForTwoMessage": "₹400 for two",
         "minMaxDeliveryTime": "55-65 mins"
-      }
+      },
+      "foodCategoryId": "749876",
+      "foodCategoryName": "Chole Bhature",
+      "foodCollectionId": "80382"
     },
     {
       "id": "842420",
@@ -2403,7 +2730,10 @@
         "totalRatings": "89 ratings",
         "costForTwoMessage": "₹220 for two",
         "minMaxDeliveryTime": "45-50 mins"
-      }
+      },
+      "foodCategoryId": "750586",
+      "foodCategoryName": "Gulab Jamun",
+      "foodCollectionId": "80430"
     },
     {
       "id": "929947",
@@ -2425,7 +2755,10 @@
         "totalRatings": "23 ratings",
         "costForTwoMessage": "₹400 for two",
         "minMaxDeliveryTime": "40-45 mins"
-      }
+      },
+      "foodCategoryId": "750586",
+      "foodCategoryName": "Gulab Jamun",
+      "foodCollectionId": "80430"
     },
     {
       "id": "933186",
@@ -2447,7 +2780,10 @@
         "totalRatings": "159 ratings",
         "costForTwoMessage": "₹300 for two",
         "minMaxDeliveryTime": "45-50 mins"
-      }
+      },
+      "foodCategoryId": "750586",
+      "foodCategoryName": "Gulab Jamun",
+      "foodCollectionId": "80430"
     },
     {
       "id": "25180",
@@ -2469,7 +2805,10 @@
         "totalRatings": "36K+ ratings",
         "costForTwoMessage": "₹300 for two",
         "minMaxDeliveryTime": "55-65 mins"
-      }
+      },
+      "foodCategoryId": "750641",
+      "foodCategoryName": "Jalebi",
+      "foodCollectionId": "80442"
     }
-    ]
+  ]
 }
