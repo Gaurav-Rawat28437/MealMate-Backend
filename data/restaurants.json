@@ -23,7 +23,16 @@
       },
       "foodCategoryId": "750581",
       "foodCategoryName": "North Indian",
-      "foodCollectionId": "83633"
+      "foodCollectionId": "83633",
+      "offer": {
+        "title": "25% OFF",
+        "subtitle": "UPTO ₹125",
+        "code": "NORTH6757",
+        "type": "PERCENT",
+        "minOrder": 399,
+        "isActive": true,
+        "displayText": "25% OFF UPTO ₹125"
+      }
     },
     {
       "id": "302692",
@@ -48,7 +57,16 @@
       },
       "foodCategoryId": "750581",
       "foodCategoryName": "North Indian",
-      "foodCollectionId": "83633"
+      "foodCollectionId": "83633",
+      "offer": {
+        "title": "Welcome Offer",
+        "subtitle": "EXTRA ₹60 OFF",
+        "code": "NORTH2692",
+        "type": "WELCOME",
+        "minOrder": 249,
+        "isActive": true,
+        "displayText": "Welcome Offer EXTRA ₹60 OFF"
+      }
     },
     {
       "id": "983943",
@@ -73,7 +91,16 @@
       },
       "foodCategoryId": "750581",
       "foodCategoryName": "North Indian",
-      "foodCollectionId": "83633"
+      "foodCollectionId": "83633",
+      "offer": {
+        "title": "Special Deal",
+        "subtitle": "UPTO ₹90 OFF",
+        "code": "NORTH3943",
+        "type": "DEAL",
+        "minOrder": 299,
+        "isActive": true,
+        "displayText": "Special Deal UPTO ₹90 OFF"
+      }
     },
     {
       "id": "1174544",
@@ -98,7 +125,16 @@
       },
       "foodCategoryId": "750581",
       "foodCategoryName": "North Indian",
-      "foodCollectionId": "83633"
+      "foodCollectionId": "83633",
+      "offer": {
+        "title": "25% OFF",
+        "subtitle": "UPTO ₹125",
+        "code": "NORTH4544",
+        "type": "PERCENT",
+        "minOrder": 399,
+        "isActive": true,
+        "displayText": "25% OFF UPTO ₹125"
+      }
     },
     {
       "id": "821109",
@@ -123,7 +159,16 @@
       },
       "foodCategoryId": "750581",
       "foodCategoryName": "North Indian",
-      "foodCollectionId": "83633"
+      "foodCollectionId": "83633",
+      "offer": {
+        "title": "15% Bank OFF",
+        "subtitle": "UPTO ₹120",
+        "code": "NORTH1109",
+        "type": "BANK",
+        "minOrder": 399,
+        "isActive": true,
+        "displayText": "15% Bank OFF UPTO ₹120"
+      }
     },
     {
       "id": "124519",
@@ -148,7 +193,16 @@
       },
       "foodCategoryId": "750581",
       "foodCategoryName": "North Indian",
-      "foodCollectionId": "83633"
+      "foodCollectionId": "83633",
+      "offer": {
+        "title": "Special Deal",
+        "subtitle": "UPTO ₹90 OFF",
+        "code": "NORTH4519",
+        "type": "DEAL",
+        "minOrder": 299,
+        "isActive": true,
+        "displayText": "Special Deal UPTO ₹90 OFF"
+      }
     },
     {
       "id": "991036",
@@ -173,7 +227,16 @@
       },
       "foodCategoryId": "750581",
       "foodCategoryName": "North Indian",
-      "foodCollectionId": "83633"
+      "foodCollectionId": "83633",
+      "offer": {
+        "title": "Free Delivery",
+        "subtitle": "ON ORDERS ABOVE ₹199",
+        "code": "NORTH1036",
+        "type": "FREE_DELIVERY",
+        "minOrder": 199,
+        "isActive": true,
+        "displayText": "Free Delivery ON ORDERS ABOVE ₹199"
+      }
     },
     {
       "id": "586875",
@@ -198,7 +261,16 @@
       },
       "foodCategoryId": "750581",
       "foodCategoryName": "North Indian",
-      "foodCollectionId": "83633"
+      "foodCollectionId": "83633",
+      "offer": {
+        "title": "Combo Deal",
+        "subtitle": "SAVE ₹150 ON COMBOS",
+        "code": "NORTH6875",
+        "type": "COMBO",
+        "minOrder": 599,
+        "isActive": true,
+        "displayText": "Combo Deal SAVE ₹150 ON COMBOS"
+      }
     },
     {
       "id": "605415",
@@ -223,7 +295,16 @@
       },
       "foodCategoryId": "750581",
       "foodCategoryName": "North Indian",
-      "foodCollectionId": "83633"
+      "foodCollectionId": "83633",
+      "offer": {
+        "title": "40% OFF",
+        "subtitle": "UPTO ₹80",
+        "code": "NORTH5415",
+        "type": "PERCENT",
+        "minOrder": 249,
+        "isActive": true,
+        "displayText": "40% OFF UPTO ₹80"
+      }
     },
     {
       "id": "540271",
@@ -248,7 +329,16 @@
       },
       "foodCategoryId": "750579",
       "foodCategoryName": "Pizzas",
-      "foodCollectionId": "83631"
+      "foodCollectionId": "83631",
+      "offer": {
+        "title": "Special Deal",
+        "subtitle": "UPTO ₹90 OFF",
+        "code": "PIZZA0271",
+        "type": "DEAL",
+        "minOrder": 299,
+        "isActive": true,
+        "displayText": "Special Deal UPTO ₹90 OFF"
+      }
     },
     {
       "id": "958332",
@@ -272,7 +362,16 @@
       },
       "foodCategoryId": "750579",
       "foodCategoryName": "Pizzas",
-      "foodCollectionId": "83631"
+      "foodCollectionId": "83631",
+      "offer": {
+        "title": "Free Delivery",
+        "subtitle": "ON ORDERS ABOVE ₹199",
+        "code": "PIZZA8332",
+        "type": "FREE_DELIVERY",
+        "minOrder": 199,
+        "isActive": true,
+        "displayText": "Free Delivery ON ORDERS ABOVE ₹199"
+      }
     },
     {
       "id": "338137",
@@ -297,7 +396,16 @@
       },
       "foodCategoryId": "750579",
       "foodCategoryName": "Pizzas",
-      "foodCollectionId": "83631"
+      "foodCollectionId": "83631",
+      "offer": {
+        "title": "Welcome Offer",
+        "subtitle": "EXTRA ₹60 OFF",
+        "code": "PIZZA8137",
+        "type": "WELCOME",
+        "minOrder": 249,
+        "isActive": true,
+        "displayText": "Welcome Offer EXTRA ₹60 OFF"
+      }
     },
     {
       "id": "922744",
@@ -322,7 +430,16 @@
       },
       "foodCategoryId": "750579",
       "foodCategoryName": "Pizzas",
-      "foodCollectionId": "83631"
+      "foodCollectionId": "83631",
+      "offer": {
+        "title": "25% OFF",
+        "subtitle": "UPTO ₹125",
+        "code": "PIZZA2744",
+        "type": "PERCENT",
+        "minOrder": 399,
+        "isActive": true,
+        "displayText": "25% OFF UPTO ₹125"
+      }
     },
     {
       "id": "1123286",
@@ -346,7 +463,16 @@
       },
       "foodCategoryId": "750579",
       "foodCategoryName": "Pizzas",
-      "foodCollectionId": "83631"
+      "foodCollectionId": "83631",
+      "offer": {
+        "title": "30% OFF",
+        "subtitle": "UPTO ₹75",
+        "code": "PIZZA3286",
+        "type": "PERCENT",
+        "minOrder": 199,
+        "isActive": true,
+        "displayText": "30% OFF UPTO ₹75"
+      }
     },
     {
       "id": "885882",
@@ -371,7 +497,16 @@
       },
       "foodCategoryId": "750579",
       "foodCategoryName": "Pizzas",
-      "foodCollectionId": "83631"
+      "foodCollectionId": "83631",
+      "offer": {
+        "title": "Flat ₹100 OFF",
+        "subtitle": "ABOVE ₹499",
+        "code": "PIZZA5882",
+        "type": "FLAT",
+        "minOrder": 499,
+        "isActive": true,
+        "displayText": "Flat ₹100 OFF ABOVE ₹499"
+      }
     },
     {
       "id": "131102",
@@ -395,7 +530,16 @@
       },
       "foodCategoryId": "750579",
       "foodCategoryName": "Pizzas",
-      "foodCollectionId": "83631"
+      "foodCollectionId": "83631",
+      "offer": {
+        "title": "25% OFF",
+        "subtitle": "UPTO ₹125",
+        "code": "PIZZA1102",
+        "type": "PERCENT",
+        "minOrder": 399,
+        "isActive": true,
+        "displayText": "25% OFF UPTO ₹125"
+      }
     },
     {
       "id": "1246994",
@@ -420,7 +564,16 @@
       },
       "foodCategoryId": "750579",
       "foodCategoryName": "Pizzas",
-      "foodCollectionId": "83631"
+      "foodCollectionId": "83631",
+      "offer": {
+        "title": "Special Deal",
+        "subtitle": "UPTO ₹90 OFF",
+        "code": "PIZZA6994",
+        "type": "DEAL",
+        "minOrder": 299,
+        "isActive": true,
+        "displayText": "Special Deal UPTO ₹90 OFF"
+      }
     },
     {
       "id": "1290163",
@@ -445,7 +598,16 @@
       },
       "foodCategoryId": "750579",
       "foodCategoryName": "Pizzas",
-      "foodCollectionId": "83631"
+      "foodCollectionId": "83631",
+      "offer": {
+        "title": "Welcome Offer",
+        "subtitle": "EXTRA ₹60 OFF",
+        "code": "PIZZA0163",
+        "type": "WELCOME",
+        "minOrder": 249,
+        "isActive": true,
+        "displayText": "Welcome Offer EXTRA ₹60 OFF"
+      }
     },
     {
       "id": "1035531",
@@ -470,7 +632,16 @@
       },
       "foodCategoryId": "749868",
       "foodCategoryName": "Cakes",
-      "foodCollectionId": "83655"
+      "foodCollectionId": "83655",
+      "offer": {
+        "title": "Flat ₹50 OFF",
+        "subtitle": "ABOVE ₹299",
+        "code": "CAKE5531",
+        "type": "FLAT",
+        "minOrder": 299,
+        "isActive": true,
+        "displayText": "Flat ₹50 OFF ABOVE ₹299"
+      }
     },
     {
       "id": "802112",
@@ -495,7 +666,16 @@
       },
       "foodCategoryId": "749868",
       "foodCategoryName": "Cakes",
-      "foodCollectionId": "83655"
+      "foodCollectionId": "83655",
+      "offer": {
+        "title": "Combo Deal",
+        "subtitle": "SAVE ₹150 ON COMBOS",
+        "code": "CAKE2112",
+        "type": "COMBO",
+        "minOrder": 599,
+        "isActive": true,
+        "displayText": "Combo Deal SAVE ₹150 ON COMBOS"
+      }
     },
     {
       "id": "1035556",
@@ -520,7 +700,16 @@
       },
       "foodCategoryId": "749868",
       "foodCategoryName": "Cakes",
-      "foodCollectionId": "83655"
+      "foodCollectionId": "83655",
+      "offer": {
+        "title": "Free Delivery",
+        "subtitle": "ON ORDERS ABOVE ₹199",
+        "code": "CAKE5556",
+        "type": "FREE_DELIVERY",
+        "minOrder": 199,
+        "isActive": true,
+        "displayText": "Free Delivery ON ORDERS ABOVE ₹199"
+      }
     },
     {
       "id": "738769",
@@ -545,7 +734,16 @@
       },
       "foodCategoryId": "749868",
       "foodCategoryName": "Cakes",
-      "foodCollectionId": "83655"
+      "foodCollectionId": "83655",
+      "offer": {
+        "title": "Free Delivery",
+        "subtitle": "ON ORDERS ABOVE ₹199",
+        "code": "CAKE8769",
+        "type": "FREE_DELIVERY",
+        "minOrder": 199,
+        "isActive": true,
+        "displayText": "Free Delivery ON ORDERS ABOVE ₹199"
+      }
     },
     {
       "id": "391162",
@@ -570,7 +768,16 @@
       },
       "foodCategoryId": "749868",
       "foodCategoryName": "Cakes",
-      "foodCollectionId": "83655"
+      "foodCollectionId": "83655",
+      "offer": {
+        "title": "15% Bank OFF",
+        "subtitle": "UPTO ₹120",
+        "code": "CAKE1162",
+        "type": "BANK",
+        "minOrder": 399,
+        "isActive": true,
+        "displayText": "15% Bank OFF UPTO ₹120"
+      }
     },
     {
       "id": "651917",
@@ -595,7 +802,16 @@
       },
       "foodCategoryId": "749868",
       "foodCategoryName": "Cakes",
-      "foodCollectionId": "83655"
+      "foodCollectionId": "83655",
+      "offer": {
+        "title": "30% OFF",
+        "subtitle": "UPTO ₹75",
+        "code": "CAKE1917",
+        "type": "PERCENT",
+        "minOrder": 199,
+        "isActive": true,
+        "displayText": "30% OFF UPTO ₹75"
+      }
     },
     {
       "id": "60345",
@@ -620,7 +836,16 @@
       },
       "foodCategoryId": "749868",
       "foodCategoryName": "Cakes",
-      "foodCollectionId": "83655"
+      "foodCollectionId": "83655",
+      "offer": {
+        "title": "Special Deal",
+        "subtitle": "UPTO ₹90 OFF",
+        "code": "CAKE0345",
+        "type": "DEAL",
+        "minOrder": 299,
+        "isActive": true,
+        "displayText": "Special Deal UPTO ₹90 OFF"
+      }
     },
     {
       "id": "462153",
@@ -645,7 +870,16 @@
       },
       "foodCategoryId": "749868",
       "foodCategoryName": "Cakes",
-      "foodCollectionId": "83655"
+      "foodCollectionId": "83655",
+      "offer": {
+        "title": "30% OFF",
+        "subtitle": "UPTO ₹75",
+        "code": "CAKE2153",
+        "type": "PERCENT",
+        "minOrder": 199,
+        "isActive": true,
+        "displayText": "30% OFF UPTO ₹75"
+      }
     },
     {
       "id": "926318",
@@ -670,7 +904,16 @@
       },
       "foodCategoryId": "749868",
       "foodCategoryName": "Cakes",
-      "foodCollectionId": "83655"
+      "foodCollectionId": "83655",
+      "offer": {
+        "title": "Special Deal",
+        "subtitle": "UPTO ₹90 OFF",
+        "code": "CAKE6318",
+        "type": "DEAL",
+        "minOrder": 299,
+        "isActive": true,
+        "displayText": "Special Deal UPTO ₹90 OFF"
+      }
     },
     {
       "id": "367815",
@@ -695,7 +938,16 @@
       },
       "foodCategoryId": "750107",
       "foodCategoryName": "Dessert",
-      "foodCollectionId": "83661"
+      "foodCollectionId": "83661",
+      "offer": {
+        "title": "Welcome Offer",
+        "subtitle": "EXTRA ₹60 OFF",
+        "code": "SWEET7815",
+        "type": "WELCOME",
+        "minOrder": 249,
+        "isActive": true,
+        "displayText": "Welcome Offer EXTRA ₹60 OFF"
+      }
     },
     {
       "id": "1051334",
@@ -720,7 +972,16 @@
       },
       "foodCategoryId": "750107",
       "foodCategoryName": "Dessert",
-      "foodCollectionId": "83661"
+      "foodCollectionId": "83661",
+      "offer": {
+        "title": "15% Bank OFF",
+        "subtitle": "UPTO ₹120",
+        "code": "SWEET1334",
+        "type": "BANK",
+        "minOrder": 399,
+        "isActive": true,
+        "displayText": "15% Bank OFF UPTO ₹120"
+      }
     },
     {
       "id": "365826",
@@ -745,7 +1006,16 @@
       },
       "foodCategoryId": "750107",
       "foodCategoryName": "Dessert",
-      "foodCollectionId": "83661"
+      "foodCollectionId": "83661",
+      "offer": {
+        "title": "40% OFF",
+        "subtitle": "UPTO ₹80",
+        "code": "SWEET5826",
+        "type": "PERCENT",
+        "minOrder": 249,
+        "isActive": true,
+        "displayText": "40% OFF UPTO ₹80"
+      }
     },
     {
       "id": "808658",
@@ -770,7 +1040,16 @@
       },
       "foodCategoryId": "750107",
       "foodCategoryName": "Dessert",
-      "foodCollectionId": "83661"
+      "foodCollectionId": "83661",
+      "offer": {
+        "title": "25% OFF",
+        "subtitle": "UPTO ₹125",
+        "code": "SWEET8658",
+        "type": "PERCENT",
+        "minOrder": 399,
+        "isActive": true,
+        "displayText": "25% OFF UPTO ₹125"
+      }
     },
     {
       "id": "1306515",
@@ -795,7 +1074,16 @@
       },
       "foodCategoryId": "750589",
       "foodCategoryName": "Burgers",
-      "foodCollectionId": "83637"
+      "foodCollectionId": "83637",
+      "offer": {
+        "title": "50% OFF",
+        "subtitle": "UPTO ₹100",
+        "code": "BURGER6515",
+        "type": "PERCENT",
+        "minOrder": 299,
+        "isActive": true,
+        "displayText": "50% OFF UPTO ₹100"
+      }
     },
     {
       "id": "1035494",
@@ -819,7 +1107,16 @@
       },
       "foodCategoryId": "750589",
       "foodCategoryName": "Burgers",
-      "foodCollectionId": "83637"
+      "foodCollectionId": "83637",
+      "offer": {
+        "title": "Welcome Offer",
+        "subtitle": "EXTRA ₹60 OFF",
+        "code": "BURGER5494",
+        "type": "WELCOME",
+        "minOrder": 249,
+        "isActive": true,
+        "displayText": "Welcome Offer EXTRA ₹60 OFF"
+      }
     },
     {
       "id": "45177",
@@ -844,7 +1141,16 @@
       },
       "foodCategoryId": "750589",
       "foodCategoryName": "Burgers",
-      "foodCollectionId": "83637"
+      "foodCollectionId": "83637",
+      "offer": {
+        "title": "30% OFF",
+        "subtitle": "UPTO ₹75",
+        "code": "BURGER5177",
+        "type": "PERCENT",
+        "minOrder": 199,
+        "isActive": true,
+        "displayText": "30% OFF UPTO ₹75"
+      }
     },
     {
       "id": "1012136",
@@ -869,7 +1175,16 @@
       },
       "foodCategoryId": "750589",
       "foodCategoryName": "Burgers",
-      "foodCollectionId": "83637"
+      "foodCollectionId": "83637",
+      "offer": {
+        "title": "15% Bank OFF",
+        "subtitle": "UPTO ₹120",
+        "code": "BURGER2136",
+        "type": "BANK",
+        "minOrder": 399,
+        "isActive": true,
+        "displayText": "15% Bank OFF UPTO ₹120"
+      }
     },
     {
       "id": "958097",
@@ -894,7 +1209,16 @@
       },
       "foodCategoryId": "750589",
       "foodCategoryName": "Burgers",
-      "foodCollectionId": "83637"
+      "foodCollectionId": "83637",
+      "offer": {
+        "title": "30% OFF",
+        "subtitle": "UPTO ₹75",
+        "code": "BURGER8097",
+        "type": "PERCENT",
+        "minOrder": 199,
+        "isActive": true,
+        "displayText": "30% OFF UPTO ₹75"
+      }
     },
     {
       "id": "1134336",
@@ -919,7 +1243,16 @@
       },
       "foodCategoryId": "750589",
       "foodCategoryName": "Burgers",
-      "foodCollectionId": "83637"
+      "foodCollectionId": "83637",
+      "offer": {
+        "title": "Special Deal",
+        "subtitle": "UPTO ₹90 OFF",
+        "code": "BURGER4336",
+        "type": "DEAL",
+        "minOrder": 299,
+        "isActive": true,
+        "displayText": "Special Deal UPTO ₹90 OFF"
+      }
     },
     {
       "id": "524375",
@@ -944,7 +1277,16 @@
       },
       "foodCategoryId": "750589",
       "foodCategoryName": "Burgers",
-      "foodCollectionId": "83637"
+      "foodCollectionId": "83637",
+      "offer": {
+        "title": "40% OFF",
+        "subtitle": "UPTO ₹80",
+        "code": "BURGER4375",
+        "type": "PERCENT",
+        "minOrder": 249,
+        "isActive": true,
+        "displayText": "40% OFF UPTO ₹80"
+      }
     },
     {
       "id": "1064560",
@@ -969,7 +1311,16 @@
       },
       "foodCategoryId": "750589",
       "foodCategoryName": "Burgers",
-      "foodCollectionId": "83637"
+      "foodCollectionId": "83637",
+      "offer": {
+        "title": "Flat ₹75 OFF",
+        "subtitle": "ABOVE ₹349",
+        "code": "BURGER4560",
+        "type": "FLAT",
+        "minOrder": 349,
+        "isActive": true,
+        "displayText": "Flat ₹75 OFF ABOVE ₹349"
+      }
     },
     {
       "id": "523809",
@@ -994,7 +1345,16 @@
       },
       "foodCategoryId": "750589",
       "foodCategoryName": "Burgers",
-      "foodCollectionId": "83637"
+      "foodCollectionId": "83637",
+      "offer": {
+        "title": "Combo Deal",
+        "subtitle": "SAVE ₹150 ON COMBOS",
+        "code": "BURGER3809",
+        "type": "COMBO",
+        "minOrder": 599,
+        "isActive": true,
+        "displayText": "Combo Deal SAVE ₹150 ON COMBOS"
+      }
     },
     {
       "id": "1310137",
@@ -1019,7 +1379,16 @@
       },
       "foodCategoryId": "750591",
       "foodCategoryName": "Biryani",
-      "foodCollectionId": "83639"
+      "foodCollectionId": "83639",
+      "offer": {
+        "title": "50% OFF",
+        "subtitle": "UPTO ₹100",
+        "code": "BIRYANI0137",
+        "type": "PERCENT",
+        "minOrder": 299,
+        "isActive": true,
+        "displayText": "50% OFF UPTO ₹100"
+      }
     },
     {
       "id": "1366350",
@@ -1044,7 +1413,16 @@
       },
       "foodCategoryId": "750591",
       "foodCategoryName": "Biryani",
-      "foodCollectionId": "83639"
+      "foodCollectionId": "83639",
+      "offer": {
+        "title": "15% Bank OFF",
+        "subtitle": "UPTO ₹120",
+        "code": "BIRYANI6350",
+        "type": "BANK",
+        "minOrder": 399,
+        "isActive": true,
+        "displayText": "15% Bank OFF UPTO ₹120"
+      }
     },
     {
       "id": "1246999",
@@ -1069,7 +1447,16 @@
       },
       "foodCategoryId": "750591",
       "foodCategoryName": "Biryani",
-      "foodCollectionId": "83639"
+      "foodCollectionId": "83639",
+      "offer": {
+        "title": "Welcome Offer",
+        "subtitle": "EXTRA ₹60 OFF",
+        "code": "BIRYANI6999",
+        "type": "WELCOME",
+        "minOrder": 249,
+        "isActive": true,
+        "displayText": "Welcome Offer EXTRA ₹60 OFF"
+      }
     },
     {
       "id": "882160",
@@ -1094,7 +1481,16 @@
       },
       "foodCategoryId": "750591",
       "foodCategoryName": "Biryani",
-      "foodCollectionId": "83639"
+      "foodCollectionId": "83639",
+      "offer": {
+        "title": "Flat ₹75 OFF",
+        "subtitle": "ABOVE ₹349",
+        "code": "BIRYANI2160",
+        "type": "FLAT",
+        "minOrder": 349,
+        "isActive": true,
+        "displayText": "Flat ₹75 OFF ABOVE ₹349"
+      }
     },
     {
       "id": "1373720",
@@ -1119,7 +1515,16 @@
       },
       "foodCategoryId": "750591",
       "foodCategoryName": "Biryani",
-      "foodCollectionId": "83639"
+      "foodCollectionId": "83639",
+      "offer": {
+        "title": "50% OFF",
+        "subtitle": "UPTO ₹100",
+        "code": "BIRYANI3720",
+        "type": "PERCENT",
+        "minOrder": 299,
+        "isActive": true,
+        "displayText": "50% OFF UPTO ₹100"
+      }
     },
     {
       "id": "49243",
@@ -1144,7 +1549,16 @@
       },
       "foodCategoryId": "750591",
       "foodCategoryName": "Biryani",
-      "foodCollectionId": "83639"
+      "foodCollectionId": "83639",
+      "offer": {
+        "title": "Flat ₹50 OFF",
+        "subtitle": "ABOVE ₹299",
+        "code": "BIRYANI9243",
+        "type": "FLAT",
+        "minOrder": 299,
+        "isActive": true,
+        "displayText": "Flat ₹50 OFF ABOVE ₹299"
+      }
     },
     {
       "id": "793291",
@@ -1168,7 +1582,16 @@
       },
       "foodCategoryId": "750591",
       "foodCategoryName": "Biryani",
-      "foodCollectionId": "83639"
+      "foodCollectionId": "83639",
+      "offer": {
+        "title": "40% OFF",
+        "subtitle": "UPTO ₹80",
+        "code": "BIRYANI3291",
+        "type": "PERCENT",
+        "minOrder": 249,
+        "isActive": true,
+        "displayText": "40% OFF UPTO ₹80"
+      }
     },
     {
       "id": "775707",
@@ -1193,7 +1616,16 @@
       },
       "foodCategoryId": "749768",
       "foodCategoryName": "Momos",
-      "foodCollectionId": "80461"
+      "foodCollectionId": "80461",
+      "offer": {
+        "title": "30% OFF",
+        "subtitle": "UPTO ₹75",
+        "code": "MOMO5707",
+        "type": "PERCENT",
+        "minOrder": 199,
+        "isActive": true,
+        "displayText": "30% OFF UPTO ₹75"
+      }
     },
     {
       "id": "655871",
@@ -1218,7 +1650,16 @@
       },
       "foodCategoryId": "749768",
       "foodCategoryName": "Momos",
-      "foodCollectionId": "80461"
+      "foodCollectionId": "80461",
+      "offer": {
+        "title": "15% Bank OFF",
+        "subtitle": "UPTO ₹120",
+        "code": "MOMO5871",
+        "type": "BANK",
+        "minOrder": 399,
+        "isActive": true,
+        "displayText": "15% Bank OFF UPTO ₹120"
+      }
     },
     {
       "id": "855113",
@@ -1243,7 +1684,16 @@
       },
       "foodCategoryId": "749768",
       "foodCategoryName": "Momos",
-      "foodCollectionId": "80461"
+      "foodCollectionId": "80461",
+      "offer": {
+        "title": "15% Bank OFF",
+        "subtitle": "UPTO ₹120",
+        "code": "MOMO5113",
+        "type": "BANK",
+        "minOrder": 399,
+        "isActive": true,
+        "displayText": "15% Bank OFF UPTO ₹120"
+      }
     },
     {
       "id": "636418",
@@ -1268,7 +1718,16 @@
       },
       "foodCategoryId": "749768",
       "foodCategoryName": "Momos",
-      "foodCollectionId": "80461"
+      "foodCollectionId": "80461",
+      "offer": {
+        "title": "Flat ₹75 OFF",
+        "subtitle": "ABOVE ₹349",
+        "code": "MOMO6418",
+        "type": "FLAT",
+        "minOrder": 349,
+        "isActive": true,
+        "displayText": "Flat ₹75 OFF ABOVE ₹349"
+      }
     },
     {
       "id": "1074605",
@@ -1292,7 +1751,16 @@
       },
       "foodCategoryId": "749768",
       "foodCategoryName": "Momos",
-      "foodCollectionId": "80461"
+      "foodCollectionId": "80461",
+      "offer": {
+        "title": "40% OFF",
+        "subtitle": "UPTO ₹80",
+        "code": "MOMO4605",
+        "type": "PERCENT",
+        "minOrder": 249,
+        "isActive": true,
+        "displayText": "40% OFF UPTO ₹80"
+      }
     },
     {
       "id": "1008131",
@@ -1317,7 +1785,16 @@
       },
       "foodCategoryId": "749768",
       "foodCategoryName": "Momos",
-      "foodCollectionId": "80461"
+      "foodCollectionId": "80461",
+      "offer": {
+        "title": "50% OFF",
+        "subtitle": "UPTO ₹100",
+        "code": "MOMO8131",
+        "type": "PERCENT",
+        "minOrder": 299,
+        "isActive": true,
+        "displayText": "50% OFF UPTO ₹100"
+      }
     },
     {
       "id": "126518",
@@ -1342,7 +1819,16 @@
       },
       "foodCategoryId": "749768",
       "foodCategoryName": "Momos",
-      "foodCollectionId": "80461"
+      "foodCollectionId": "80461",
+      "offer": {
+        "title": "Combo Deal",
+        "subtitle": "SAVE ₹150 ON COMBOS",
+        "code": "MOMO6518",
+        "type": "COMBO",
+        "minOrder": 599,
+        "isActive": true,
+        "displayText": "Combo Deal SAVE ₹150 ON COMBOS"
+      }
     },
     {
       "id": "996761",
@@ -1367,7 +1853,16 @@
       },
       "foodCategoryId": "750222",
       "foodCategoryName": "Rolls",
-      "foodCollectionId": "83669"
+      "foodCollectionId": "83669",
+      "offer": {
+        "title": "50% OFF",
+        "subtitle": "UPTO ₹100",
+        "code": "ROLL6761",
+        "type": "PERCENT",
+        "minOrder": 299,
+        "isActive": true,
+        "displayText": "50% OFF UPTO ₹100"
+      }
     },
     {
       "id": "654091",
@@ -1392,7 +1887,16 @@
       },
       "foodCategoryId": "750222",
       "foodCategoryName": "Rolls",
-      "foodCollectionId": "83669"
+      "foodCollectionId": "83669",
+      "offer": {
+        "title": "Welcome Offer",
+        "subtitle": "EXTRA ₹60 OFF",
+        "code": "ROLL4091",
+        "type": "WELCOME",
+        "minOrder": 249,
+        "isActive": true,
+        "displayText": "Welcome Offer EXTRA ₹60 OFF"
+      }
     },
     {
       "id": "593269",
@@ -1417,7 +1921,16 @@
       },
       "foodCategoryId": "750222",
       "foodCategoryName": "Rolls",
-      "foodCollectionId": "83669"
+      "foodCollectionId": "83669",
+      "offer": {
+        "title": "25% OFF",
+        "subtitle": "UPTO ₹125",
+        "code": "ROLL3269",
+        "type": "PERCENT",
+        "minOrder": 399,
+        "isActive": true,
+        "displayText": "25% OFF UPTO ₹125"
+      }
     },
     {
       "id": "1326289",
@@ -1442,7 +1955,16 @@
       },
       "foodCategoryId": "750585",
       "foodCategoryName": "South Indian",
-      "foodCollectionId": "83634"
+      "foodCollectionId": "83634",
+      "offer": {
+        "title": "Flat ₹100 OFF",
+        "subtitle": "ABOVE ₹499",
+        "code": "SOUTH6289",
+        "type": "FLAT",
+        "minOrder": 499,
+        "isActive": true,
+        "displayText": "Flat ₹100 OFF ABOVE ₹499"
+      }
     },
     {
       "id": "571515",
@@ -1467,7 +1989,16 @@
       },
       "foodCategoryId": "750585",
       "foodCategoryName": "South Indian",
-      "foodCollectionId": "83634"
+      "foodCollectionId": "83634",
+      "offer": {
+        "title": "30% OFF",
+        "subtitle": "UPTO ₹75",
+        "code": "SOUTH1515",
+        "type": "PERCENT",
+        "minOrder": 199,
+        "isActive": true,
+        "displayText": "30% OFF UPTO ₹75"
+      }
     },
     {
       "id": "1320426",
@@ -1492,7 +2023,16 @@
       },
       "foodCategoryId": "750585",
       "foodCategoryName": "South Indian",
-      "foodCollectionId": "83634"
+      "foodCollectionId": "83634",
+      "offer": {
+        "title": "25% OFF",
+        "subtitle": "UPTO ₹125",
+        "code": "SOUTH0426",
+        "type": "PERCENT",
+        "minOrder": 399,
+        "isActive": true,
+        "displayText": "25% OFF UPTO ₹125"
+      }
     },
     {
       "id": "347045",
@@ -1517,7 +2057,16 @@
       },
       "foodCategoryId": "750585",
       "foodCategoryName": "South Indian",
-      "foodCollectionId": "83634"
+      "foodCollectionId": "83634",
+      "offer": {
+        "title": "15% Bank OFF",
+        "subtitle": "UPTO ₹120",
+        "code": "SOUTH7045",
+        "type": "BANK",
+        "minOrder": 399,
+        "isActive": true,
+        "displayText": "15% Bank OFF UPTO ₹120"
+      }
     },
     {
       "id": "42026",
@@ -1542,7 +2091,16 @@
       },
       "foodCategoryId": "750585",
       "foodCategoryName": "South Indian",
-      "foodCollectionId": "83634"
+      "foodCollectionId": "83634",
+      "offer": {
+        "title": "40% OFF",
+        "subtitle": "UPTO ₹80",
+        "code": "SOUTH2026",
+        "type": "PERCENT",
+        "minOrder": 249,
+        "isActive": true,
+        "displayText": "40% OFF UPTO ₹80"
+      }
     },
     {
       "id": "924731",
@@ -1567,7 +2125,16 @@
       },
       "foodCategoryId": "750585",
       "foodCategoryName": "South Indian",
-      "foodCollectionId": "83634"
+      "foodCollectionId": "83634",
+      "offer": {
+        "title": "15% Bank OFF",
+        "subtitle": "UPTO ₹120",
+        "code": "SOUTH4731",
+        "type": "BANK",
+        "minOrder": 399,
+        "isActive": true,
+        "displayText": "15% Bank OFF UPTO ₹120"
+      }
     },
     {
       "id": "572126",
@@ -1592,7 +2159,16 @@
       },
       "foodCategoryId": "750587",
       "foodCategoryName": "Chinese",
-      "foodCollectionId": "83636"
+      "foodCollectionId": "83636",
+      "offer": {
+        "title": "Special Deal",
+        "subtitle": "UPTO ₹90 OFF",
+        "code": "CHINA2126",
+        "type": "DEAL",
+        "minOrder": 299,
+        "isActive": true,
+        "displayText": "Special Deal UPTO ₹90 OFF"
+      }
     },
     {
       "id": "655870",
@@ -1617,7 +2193,16 @@
       },
       "foodCategoryId": "750587",
       "foodCategoryName": "Chinese",
-      "foodCollectionId": "83636"
+      "foodCollectionId": "83636",
+      "offer": {
+        "title": "25% OFF",
+        "subtitle": "UPTO ₹125",
+        "code": "CHINA5870",
+        "type": "PERCENT",
+        "minOrder": 399,
+        "isActive": true,
+        "displayText": "25% OFF UPTO ₹125"
+      }
     },
     {
       "id": "826426",
@@ -1642,7 +2227,16 @@
       },
       "foodCategoryId": "750587",
       "foodCategoryName": "Chinese",
-      "foodCollectionId": "83636"
+      "foodCollectionId": "83636",
+      "offer": {
+        "title": "Combo Deal",
+        "subtitle": "SAVE ₹150 ON COMBOS",
+        "code": "CHINA6426",
+        "type": "COMBO",
+        "minOrder": 599,
+        "isActive": true,
+        "displayText": "Combo Deal SAVE ₹150 ON COMBOS"
+      }
     },
     {
       "id": "1061461",
@@ -1666,7 +2260,16 @@
       },
       "foodCategoryId": "750596",
       "foodCategoryName": "Ice Cream",
-      "foodCollectionId": "83640"
+      "foodCollectionId": "83640",
+      "offer": {
+        "title": "50% OFF",
+        "subtitle": "UPTO ₹100",
+        "code": "ICE1461",
+        "type": "PERCENT",
+        "minOrder": 299,
+        "isActive": true,
+        "displayText": "50% OFF UPTO ₹100"
+      }
     },
     {
       "id": "1256640",
@@ -1691,7 +2294,16 @@
       },
       "foodCategoryId": "750596",
       "foodCategoryName": "Ice Cream",
-      "foodCollectionId": "83640"
+      "foodCollectionId": "83640",
+      "offer": {
+        "title": "Welcome Offer",
+        "subtitle": "EXTRA ₹60 OFF",
+        "code": "ICE6640",
+        "type": "WELCOME",
+        "minOrder": 249,
+        "isActive": true,
+        "displayText": "Welcome Offer EXTRA ₹60 OFF"
+      }
     },
     {
       "id": "1174561",
@@ -1716,7 +2328,16 @@
       },
       "foodCategoryId": "750596",
       "foodCategoryName": "Ice Cream",
-      "foodCollectionId": "83640"
+      "foodCollectionId": "83640",
+      "offer": {
+        "title": "Special Deal",
+        "subtitle": "UPTO ₹90 OFF",
+        "code": "ICE4561",
+        "type": "DEAL",
+        "minOrder": 299,
+        "isActive": true,
+        "displayText": "Special Deal UPTO ₹90 OFF"
+      }
     },
     {
       "id": "1175181",
@@ -1741,7 +2362,16 @@
       },
       "foodCategoryId": "750596",
       "foodCategoryName": "Ice Cream",
-      "foodCollectionId": "83640"
+      "foodCollectionId": "83640",
+      "offer": {
+        "title": "Special Deal",
+        "subtitle": "UPTO ₹90 OFF",
+        "code": "ICE5181",
+        "type": "DEAL",
+        "minOrder": 299,
+        "isActive": true,
+        "displayText": "Special Deal UPTO ₹90 OFF"
+      }
     },
     {
       "id": "777165",
@@ -1766,7 +2396,16 @@
       },
       "foodCategoryId": "750596",
       "foodCategoryName": "Ice Cream",
-      "foodCollectionId": "83640"
+      "foodCollectionId": "83640",
+      "offer": {
+        "title": "25% OFF",
+        "subtitle": "UPTO ₹125",
+        "code": "ICE7165",
+        "type": "PERCENT",
+        "minOrder": 399,
+        "isActive": true,
+        "displayText": "25% OFF UPTO ₹125"
+      }
     },
     {
       "id": "687142",
@@ -1791,7 +2430,16 @@
       },
       "foodCategoryId": "750596",
       "foodCategoryName": "Ice Cream",
-      "foodCollectionId": "83640"
+      "foodCollectionId": "83640",
+      "offer": {
+        "title": "40% OFF",
+        "subtitle": "UPTO ₹80",
+        "code": "ICE7142",
+        "type": "PERCENT",
+        "minOrder": 249,
+        "isActive": true,
+        "displayText": "40% OFF UPTO ₹80"
+      }
     },
     {
       "id": "711892",
@@ -1815,7 +2463,16 @@
       },
       "foodCategoryId": "750131",
       "foodCategoryName": "Dosa",
-      "foodCollectionId": "80424"
+      "foodCollectionId": "80424",
+      "offer": {
+        "title": "50% OFF",
+        "subtitle": "UPTO ₹100",
+        "code": "DOSA1892",
+        "type": "PERCENT",
+        "minOrder": 299,
+        "isActive": true,
+        "displayText": "50% OFF UPTO ₹100"
+      }
     },
     {
       "id": "923530",
@@ -1840,7 +2497,16 @@
       },
       "foodCategoryId": "750131",
       "foodCategoryName": "Dosa",
-      "foodCollectionId": "80424"
+      "foodCollectionId": "80424",
+      "offer": {
+        "title": "15% Bank OFF",
+        "subtitle": "UPTO ₹120",
+        "code": "DOSA3530",
+        "type": "BANK",
+        "minOrder": 399,
+        "isActive": true,
+        "displayText": "15% Bank OFF UPTO ₹120"
+      }
     },
     {
       "id": "896617",
@@ -1864,7 +2530,16 @@
       },
       "foodCategoryId": "750131",
       "foodCategoryName": "Dosa",
-      "foodCollectionId": "80424"
+      "foodCollectionId": "80424",
+      "offer": {
+        "title": "Special Deal",
+        "subtitle": "UPTO ₹90 OFF",
+        "code": "DOSA6617",
+        "type": "DEAL",
+        "minOrder": 299,
+        "isActive": true,
+        "displayText": "Special Deal UPTO ₹90 OFF"
+      }
     },
     {
       "id": "969926",
@@ -1889,7 +2564,16 @@
       },
       "foodCategoryId": "750131",
       "foodCategoryName": "Dosa",
-      "foodCollectionId": "80424"
+      "foodCollectionId": "80424",
+      "offer": {
+        "title": "15% Bank OFF",
+        "subtitle": "UPTO ₹120",
+        "code": "DOSA9926",
+        "type": "BANK",
+        "minOrder": 399,
+        "isActive": true,
+        "displayText": "15% Bank OFF UPTO ₹120"
+      }
     },
     {
       "id": "162241",
@@ -1914,7 +2598,16 @@
       },
       "foodCategoryId": "750131",
       "foodCategoryName": "Dosa",
-      "foodCollectionId": "80424"
+      "foodCollectionId": "80424",
+      "offer": {
+        "title": "25% OFF",
+        "subtitle": "UPTO ₹125",
+        "code": "DOSA2241",
+        "type": "PERCENT",
+        "minOrder": 399,
+        "isActive": true,
+        "displayText": "25% OFF UPTO ₹125"
+      }
     },
     {
       "id": "451982",
@@ -1939,7 +2632,16 @@
       },
       "foodCategoryId": "750131",
       "foodCategoryName": "Dosa",
-      "foodCollectionId": "80424"
+      "foodCollectionId": "80424",
+      "offer": {
+        "title": "15% Bank OFF",
+        "subtitle": "UPTO ₹120",
+        "code": "DOSA1982",
+        "type": "BANK",
+        "minOrder": 399,
+        "isActive": true,
+        "displayText": "15% Bank OFF UPTO ₹120"
+      }
     },
     {
       "id": "395841",
@@ -1963,7 +2665,16 @@
       },
       "foodCategoryId": "750131",
       "foodCategoryName": "Dosa",
-      "foodCollectionId": "80424"
+      "foodCollectionId": "80424",
+      "offer": {
+        "title": "30% OFF",
+        "subtitle": "UPTO ₹75",
+        "code": "DOSA5841",
+        "type": "PERCENT",
+        "minOrder": 199,
+        "isActive": true,
+        "displayText": "30% OFF UPTO ₹75"
+      }
     },
     {
       "id": "242000",
@@ -1988,7 +2699,16 @@
       },
       "foodCategoryId": "750201",
       "foodCategoryName": "Paratha",
-      "foodCollectionId": "80475"
+      "foodCollectionId": "80475",
+      "offer": {
+        "title": "Welcome Offer",
+        "subtitle": "EXTRA ₹60 OFF",
+        "code": "PARA2000",
+        "type": "WELCOME",
+        "minOrder": 249,
+        "isActive": true,
+        "displayText": "Welcome Offer EXTRA ₹60 OFF"
+      }
     },
     {
       "id": "27539",
@@ -2012,7 +2732,16 @@
       },
       "foodCategoryId": "750201",
       "foodCategoryName": "Paratha",
-      "foodCollectionId": "80475"
+      "foodCollectionId": "80475",
+      "offer": {
+        "title": "50% OFF",
+        "subtitle": "UPTO ₹100",
+        "code": "PARA7539",
+        "type": "PERCENT",
+        "minOrder": 299,
+        "isActive": true,
+        "displayText": "50% OFF UPTO ₹100"
+      }
     },
     {
       "id": "1008128",
@@ -2037,7 +2766,16 @@
       },
       "foodCategoryId": "750201",
       "foodCategoryName": "Paratha",
-      "foodCollectionId": "80475"
+      "foodCollectionId": "80475",
+      "offer": {
+        "title": "Combo Deal",
+        "subtitle": "SAVE ₹150 ON COMBOS",
+        "code": "PARA8128",
+        "type": "COMBO",
+        "minOrder": 599,
+        "isActive": true,
+        "displayText": "Combo Deal SAVE ₹150 ON COMBOS"
+      }
     },
     {
       "id": "167097",
@@ -2061,7 +2799,16 @@
       },
       "foodCategoryId": "750201",
       "foodCategoryName": "Paratha",
-      "foodCollectionId": "80475"
+      "foodCollectionId": "80475",
+      "offer": {
+        "title": "Free Delivery",
+        "subtitle": "ON ORDERS ABOVE ₹199",
+        "code": "PARA7097",
+        "type": "FREE_DELIVERY",
+        "minOrder": 199,
+        "isActive": true,
+        "displayText": "Free Delivery ON ORDERS ABOVE ₹199"
+      }
     },
     {
       "id": "509815",
@@ -2086,7 +2833,16 @@
       },
       "foodCategoryId": "750201",
       "foodCategoryName": "Paratha",
-      "foodCollectionId": "80475"
+      "foodCollectionId": "80475",
+      "offer": {
+        "title": "50% OFF",
+        "subtitle": "UPTO ₹100",
+        "code": "PARA9815",
+        "type": "PERCENT",
+        "minOrder": 299,
+        "isActive": true,
+        "displayText": "50% OFF UPTO ₹100"
+      }
     },
     {
       "id": "325116",
@@ -2111,7 +2867,16 @@
       },
       "foodCategoryId": "750201",
       "foodCategoryName": "Paratha",
-      "foodCollectionId": "80475"
+      "foodCollectionId": "80475",
+      "offer": {
+        "title": "40% OFF",
+        "subtitle": "UPTO ₹80",
+        "code": "PARA5116",
+        "type": "PERCENT",
+        "minOrder": 249,
+        "isActive": true,
+        "displayText": "40% OFF UPTO ₹80"
+      }
     },
     {
       "id": "420384",
@@ -2135,7 +2900,16 @@
       },
       "foodCategoryId": "750201",
       "foodCategoryName": "Paratha",
-      "foodCollectionId": "80475"
+      "foodCollectionId": "80475",
+      "offer": {
+        "title": "Special Deal",
+        "subtitle": "UPTO ₹90 OFF",
+        "code": "PARA0384",
+        "type": "DEAL",
+        "minOrder": 299,
+        "isActive": true,
+        "displayText": "Special Deal UPTO ₹90 OFF"
+      }
     },
     {
       "id": "301752",
@@ -2159,7 +2933,16 @@
       },
       "foodCategoryId": "749772",
       "foodCategoryName": "Noodles",
-      "foodCollectionId": "80463"
+      "foodCollectionId": "80463",
+      "offer": {
+        "title": "40% OFF",
+        "subtitle": "UPTO ₹80",
+        "code": "NOODLE1752",
+        "type": "PERCENT",
+        "minOrder": 249,
+        "isActive": true,
+        "displayText": "40% OFF UPTO ₹80"
+      }
     },
     {
       "id": "855489",
@@ -2184,7 +2967,16 @@
       },
       "foodCategoryId": "749772",
       "foodCategoryName": "Noodles",
-      "foodCollectionId": "80463"
+      "foodCollectionId": "80463",
+      "offer": {
+        "title": "Special Deal",
+        "subtitle": "UPTO ₹90 OFF",
+        "code": "NOODLE5489",
+        "type": "DEAL",
+        "minOrder": 299,
+        "isActive": true,
+        "displayText": "Special Deal UPTO ₹90 OFF"
+      }
     },
     {
       "id": "28289",
@@ -2209,7 +3001,16 @@
       },
       "foodCategoryId": "750260",
       "foodCategoryName": "Rasmalai",
-      "foodCollectionId": "80390"
+      "foodCollectionId": "80390",
+      "offer": {
+        "title": "Combo Deal",
+        "subtitle": "SAVE ₹150 ON COMBOS",
+        "code": "RAS8289",
+        "type": "COMBO",
+        "minOrder": 599,
+        "isActive": true,
+        "displayText": "Combo Deal SAVE ₹150 ON COMBOS"
+      }
     },
     {
       "id": "63077",
@@ -2234,7 +3035,16 @@
       },
       "foodCategoryId": "750260",
       "foodCategoryName": "Rasmalai",
-      "foodCollectionId": "80390"
+      "foodCollectionId": "80390",
+      "offer": {
+        "title": "15% Bank OFF",
+        "subtitle": "UPTO ₹120",
+        "code": "RAS3077",
+        "type": "BANK",
+        "minOrder": 399,
+        "isActive": true,
+        "displayText": "15% Bank OFF UPTO ₹120"
+      }
     },
     {
       "id": "1007762",
@@ -2259,7 +3069,16 @@
       },
       "foodCategoryId": "750260",
       "foodCategoryName": "Rasmalai",
-      "foodCollectionId": "80390"
+      "foodCollectionId": "80390",
+      "offer": {
+        "title": "Special Deal",
+        "subtitle": "UPTO ₹90 OFF",
+        "code": "RAS7762",
+        "type": "DEAL",
+        "minOrder": 299,
+        "isActive": true,
+        "displayText": "Special Deal UPTO ₹90 OFF"
+      }
     },
     {
       "id": "659240",
@@ -2284,7 +3103,16 @@
       },
       "foodCategoryId": "750260",
       "foodCategoryName": "Rasmalai",
-      "foodCollectionId": "80390"
+      "foodCollectionId": "80390",
+      "offer": {
+        "title": "Special Deal",
+        "subtitle": "UPTO ₹90 OFF",
+        "code": "RAS9240",
+        "type": "DEAL",
+        "minOrder": 299,
+        "isActive": true,
+        "displayText": "Special Deal UPTO ₹90 OFF"
+      }
     },
     {
       "id": "15844",
@@ -2309,7 +3137,16 @@
       },
       "foodCategoryId": "750260",
       "foodCategoryName": "Rasmalai",
-      "foodCollectionId": "80390"
+      "foodCollectionId": "80390",
+      "offer": {
+        "title": "Flat ₹100 OFF",
+        "subtitle": "ABOVE ₹499",
+        "code": "RAS5844",
+        "type": "FLAT",
+        "minOrder": 499,
+        "isActive": true,
+        "displayText": "Flat ₹100 OFF ABOVE ₹499"
+      }
     },
     {
       "id": "342623",
@@ -2334,7 +3171,16 @@
       },
       "foodCategoryId": "750260",
       "foodCategoryName": "Rasmalai",
-      "foodCollectionId": "80390"
+      "foodCollectionId": "80390",
+      "offer": {
+        "title": "Flat ₹75 OFF",
+        "subtitle": "ABOVE ₹349",
+        "code": "RAS2623",
+        "type": "FLAT",
+        "minOrder": 349,
+        "isActive": true,
+        "displayText": "Flat ₹75 OFF ABOVE ₹349"
+      }
     },
     {
       "id": "156168",
@@ -2359,7 +3205,16 @@
       },
       "foodCategoryId": "750260",
       "foodCategoryName": "Rasmalai",
-      "foodCollectionId": "80390"
+      "foodCollectionId": "80390",
+      "offer": {
+        "title": "Special Deal",
+        "subtitle": "UPTO ₹90 OFF",
+        "code": "RAS6168",
+        "type": "DEAL",
+        "minOrder": 299,
+        "isActive": true,
+        "displayText": "Special Deal UPTO ₹90 OFF"
+      }
     },
     {
       "id": "959660",
@@ -2384,7 +3239,16 @@
       },
       "foodCategoryId": "750206",
       "foodCategoryName": "Pasta",
-      "foodCollectionId": "80479"
+      "foodCollectionId": "80479",
+      "offer": {
+        "title": "Free Delivery",
+        "subtitle": "ON ORDERS ABOVE ₹199",
+        "code": "PASTA9660",
+        "type": "FREE_DELIVERY",
+        "minOrder": 199,
+        "isActive": true,
+        "displayText": "Free Delivery ON ORDERS ABOVE ₹199"
+      }
     },
     {
       "id": "736174",
@@ -2409,7 +3273,16 @@
       },
       "foodCategoryId": "750206",
       "foodCategoryName": "Pasta",
-      "foodCollectionId": "80479"
+      "foodCollectionId": "80479",
+      "offer": {
+        "title": "40% OFF",
+        "subtitle": "UPTO ₹80",
+        "code": "PASTA6174",
+        "type": "PERCENT",
+        "minOrder": 249,
+        "isActive": true,
+        "displayText": "40% OFF UPTO ₹80"
+      }
     },
     {
       "id": "123107",
@@ -2434,7 +3307,16 @@
       },
       "foodCategoryId": "750206",
       "foodCategoryName": "Pasta",
-      "foodCollectionId": "80479"
+      "foodCollectionId": "80479",
+      "offer": {
+        "title": "Welcome Offer",
+        "subtitle": "EXTRA ₹60 OFF",
+        "code": "PASTA3107",
+        "type": "WELCOME",
+        "minOrder": 249,
+        "isActive": true,
+        "displayText": "Welcome Offer EXTRA ₹60 OFF"
+      }
     },
     {
       "id": "145714",
@@ -2459,7 +3341,16 @@
       },
       "foodCategoryId": "750206",
       "foodCategoryName": "Pasta",
-      "foodCollectionId": "80479"
+      "foodCollectionId": "80479",
+      "offer": {
+        "title": "40% OFF",
+        "subtitle": "UPTO ₹80",
+        "code": "PASTA5714",
+        "type": "PERCENT",
+        "minOrder": 249,
+        "isActive": true,
+        "displayText": "40% OFF UPTO ₹80"
+      }
     },
     {
       "id": "1025803",
@@ -2484,7 +3375,16 @@
       },
       "foodCategoryId": "750206",
       "foodCategoryName": "Pasta",
-      "foodCollectionId": "80479"
+      "foodCollectionId": "80479",
+      "offer": {
+        "title": "15% Bank OFF",
+        "subtitle": "UPTO ₹120",
+        "code": "PASTA5803",
+        "type": "BANK",
+        "minOrder": 399,
+        "isActive": true,
+        "displayText": "15% Bank OFF UPTO ₹120"
+      }
     },
     {
       "id": "421451",
@@ -2509,7 +3409,16 @@
       },
       "foodCategoryId": "750206",
       "foodCategoryName": "Pasta",
-      "foodCollectionId": "80479"
+      "foodCollectionId": "80479",
+      "offer": {
+        "title": "Special Deal",
+        "subtitle": "UPTO ₹90 OFF",
+        "code": "PASTA1451",
+        "type": "DEAL",
+        "minOrder": 299,
+        "isActive": true,
+        "displayText": "Special Deal UPTO ₹90 OFF"
+      }
     },
     {
       "id": "583815",
@@ -2534,7 +3443,16 @@
       },
       "foodCategoryId": "750208",
       "foodCategoryName": "Pastry",
-      "foodCollectionId": "80355"
+      "foodCollectionId": "80355",
+      "offer": {
+        "title": "Flat ₹100 OFF",
+        "subtitle": "ABOVE ₹499",
+        "code": "PASTRY3815",
+        "type": "FLAT",
+        "minOrder": 499,
+        "isActive": true,
+        "displayText": "Flat ₹100 OFF ABOVE ₹499"
+      }
     },
     {
       "id": "758333",
@@ -2559,7 +3477,16 @@
       },
       "foodCategoryId": "750208",
       "foodCategoryName": "Pastry",
-      "foodCollectionId": "80355"
+      "foodCollectionId": "80355",
+      "offer": {
+        "title": "50% OFF",
+        "subtitle": "UPTO ₹100",
+        "code": "PASTRY8333",
+        "type": "PERCENT",
+        "minOrder": 299,
+        "isActive": true,
+        "displayText": "50% OFF UPTO ₹100"
+      }
     },
     {
       "id": "62874",
@@ -2584,7 +3511,16 @@
       },
       "foodCategoryId": "750208",
       "foodCategoryName": "Pastry",
-      "foodCollectionId": "80355"
+      "foodCollectionId": "80355",
+      "offer": {
+        "title": "Flat ₹100 OFF",
+        "subtitle": "ABOVE ₹499",
+        "code": "PASTRY2874",
+        "type": "FLAT",
+        "minOrder": 499,
+        "isActive": true,
+        "displayText": "Flat ₹100 OFF ABOVE ₹499"
+      }
     },
     {
       "id": "975703",
@@ -2609,7 +3545,16 @@
       },
       "foodCategoryId": "750208",
       "foodCategoryName": "Pastry",
-      "foodCollectionId": "80355"
+      "foodCollectionId": "80355",
+      "offer": {
+        "title": "25% OFF",
+        "subtitle": "UPTO ₹125",
+        "code": "PASTRY5703",
+        "type": "PERCENT",
+        "minOrder": 399,
+        "isActive": true,
+        "displayText": "25% OFF UPTO ₹125"
+      }
     },
     {
       "id": "275225",
@@ -2634,7 +3579,16 @@
       },
       "foodCategoryId": "750208",
       "foodCategoryName": "Pastry",
-      "foodCollectionId": "80355"
+      "foodCollectionId": "80355",
+      "offer": {
+        "title": "25% OFF",
+        "subtitle": "UPTO ₹125",
+        "code": "PASTRY5225",
+        "type": "PERCENT",
+        "minOrder": 399,
+        "isActive": true,
+        "displayText": "25% OFF UPTO ₹125"
+      }
     },
     {
       "id": "853883",
@@ -2659,7 +3613,16 @@
       },
       "foodCategoryId": "749876",
       "foodCategoryName": "Chole Bhature",
-      "foodCollectionId": "80382"
+      "foodCollectionId": "80382",
+      "offer": {
+        "title": "Welcome Offer",
+        "subtitle": "EXTRA ₹60 OFF",
+        "code": "CHOLE3883",
+        "type": "WELCOME",
+        "minOrder": 249,
+        "isActive": true,
+        "displayText": "Welcome Offer EXTRA ₹60 OFF"
+      }
     },
     {
       "id": "958937",
@@ -2683,7 +3646,16 @@
       },
       "foodCategoryId": "749876",
       "foodCategoryName": "Chole Bhature",
-      "foodCollectionId": "80382"
+      "foodCollectionId": "80382",
+      "offer": {
+        "title": "30% OFF",
+        "subtitle": "UPTO ₹75",
+        "code": "CHOLE8937",
+        "type": "PERCENT",
+        "minOrder": 199,
+        "isActive": true,
+        "displayText": "30% OFF UPTO ₹75"
+      }
     },
     {
       "id": "680160",
@@ -2708,7 +3680,16 @@
       },
       "foodCategoryId": "749876",
       "foodCategoryName": "Chole Bhature",
-      "foodCollectionId": "80382"
+      "foodCollectionId": "80382",
+      "offer": {
+        "title": "Flat ₹100 OFF",
+        "subtitle": "ABOVE ₹499",
+        "code": "CHOLE0160",
+        "type": "FLAT",
+        "minOrder": 499,
+        "isActive": true,
+        "displayText": "Flat ₹100 OFF ABOVE ₹499"
+      }
     },
     {
       "id": "842420",
@@ -2733,7 +3714,16 @@
       },
       "foodCategoryId": "750586",
       "foodCategoryName": "Gulab Jamun",
-      "foodCollectionId": "80430"
+      "foodCollectionId": "80430",
+      "offer": {
+        "title": "Welcome Offer",
+        "subtitle": "EXTRA ₹60 OFF",
+        "code": "GULAB2420",
+        "type": "WELCOME",
+        "minOrder": 249,
+        "isActive": true,
+        "displayText": "Welcome Offer EXTRA ₹60 OFF"
+      }
     },
     {
       "id": "929947",
@@ -2758,7 +3748,16 @@
       },
       "foodCategoryId": "750586",
       "foodCategoryName": "Gulab Jamun",
-      "foodCollectionId": "80430"
+      "foodCollectionId": "80430",
+      "offer": {
+        "title": "Special Deal",
+        "subtitle": "UPTO ₹90 OFF",
+        "code": "GULAB9947",
+        "type": "DEAL",
+        "minOrder": 299,
+        "isActive": true,
+        "displayText": "Special Deal UPTO ₹90 OFF"
+      }
     },
     {
       "id": "933186",
@@ -2783,7 +3782,16 @@
       },
       "foodCategoryId": "750586",
       "foodCategoryName": "Gulab Jamun",
-      "foodCollectionId": "80430"
+      "foodCollectionId": "80430",
+      "offer": {
+        "title": "Flat ₹100 OFF",
+        "subtitle": "ABOVE ₹499",
+        "code": "GULAB3186",
+        "type": "FLAT",
+        "minOrder": 499,
+        "isActive": true,
+        "displayText": "Flat ₹100 OFF ABOVE ₹499"
+      }
     },
     {
       "id": "25180",
@@ -2808,7 +3816,16 @@
       },
       "foodCategoryId": "750641",
       "foodCategoryName": "Jalebi",
-      "foodCollectionId": "80442"
+      "foodCollectionId": "80442",
+      "offer": {
+        "title": "Free Delivery",
+        "subtitle": "ON ORDERS ABOVE ₹199",
+        "code": "JALEBI5180",
+        "type": "FREE_DELIVERY",
+        "minOrder": 199,
+        "isActive": true,
+        "displayText": "Free Delivery ON ORDERS ABOVE ₹199"
+      }
     }
   ]
 }
