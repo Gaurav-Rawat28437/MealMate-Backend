@@ -44,9 +44,15 @@ app.get("/foodItems", (req, res) => {
 });
 
 app.get("/restaurants", (req, res) => {
-  const { foodCategoryId, city, limit, sort, minRating, page } = req.query;
+  const { foodCategoryId, city, limit, sort, minRating, page, hasOffer } = req.query;
 
   let filteredRestaurants = restaurants;
+
+  if (hasOffer === "true") {
+    filteredRestaurants = filteredRestaurants.filter(
+      (restaurant) => restaurant.offer?.isActive
+    )
+  }
 
   // filter by city
   if (city) {
