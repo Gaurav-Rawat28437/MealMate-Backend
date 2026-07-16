@@ -44,7 +44,7 @@ app.get("/foodItems", (req, res) => {
 });
 
 app.get("/restaurants", (req, res) => {
-  const { foodCategoryId, city, limit, sort, minRating, page, hasOffer } = req.query;
+  const { foodCategoryId, city, limit, sort, minRating, page, hasOffer, search } = req.query;
 
   let filteredRestaurants = restaurants;
 
@@ -114,6 +114,30 @@ app.get("/restaurants", (req, res) => {
       totalRestaurants,
       hasMore: endIndex < totalRestaurants,
     })}
+
+    if (search) {
+  const searchText = search.toLowerCase().trim()
+
+  filteredRestaurants = filteredRestaurants.filter((restaurant) => {
+    const restaurantName = restaurant.restaurantName?.toLowerCase() || ""
+    const category = restaurant.category?.toLowerCase() || ""
+    const areaName = restaurant.areaName?.toLowerCase() || ""
+    const locality = restaurant.locality?.toLowerCase() || ""
+
+    const cuisines =
+      restaurant.restaurantInfo?.cuisines
+        ?.join(" ")
+        .toLowerCase() || ""
+
+    return (
+      restaurantName.includes(searchText) ||
+      category.includes(searchText) ||
+      areaName.includes(searchText) ||
+      locality.includes(searchText) ||
+      cuisines.includes(searchText)
+    )
+  })
+}
 
   res.json(filteredRestaurants);
 });
